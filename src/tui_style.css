@@ -1,4 +1,4 @@
-/* Screen {
+Screen {
     layout: grid;
     grid-size: 2 1;
     grid-columns: 1fr 2fr;
@@ -55,4 +55,4 @@ Select {
 Input {
     width: 100%;
     margin: 1 0;
-} */
+}
