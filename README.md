@@ -1,4 +1,4 @@
-# WallCLI
+# 💘WallCLI
 
 ![Wall CLI](testimages/webgl_02.gif)
 
@@ -15,7 +15,7 @@ Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautif
 
 ![Wall 4](src/wallpapers/mountains_2.jpg)
 
-## Folder Structure
+## 📂 Folder Structure
 
 ```
 wallpaper-cli-tool/
@@ -41,7 +41,7 @@ wallpaper-cli-tool/
 ```
 
 
-## Features
+## 🪶Features
 
 **✨ - Fetch wallpapers from multiple sources: Pexels, Unsplash, NASA APOD, and Reddit.**
 
@@ -56,7 +56,7 @@ wallpaper-cli-tool/
 **✨ - Fetch Previous and Next Wallpapers**
 
 
-## Installation
+## 💻 Installation
 
 1. Clone the repository:
 
@@ -72,23 +72,23 @@ wallpaper-cli-tool/
     pip install -r requirements.txt
     ```
 
-## Usage
+## 🪴 Usage
 
-### Command Line Interface: (For techies)
+### 🧑‍💻👩‍💻 Command Line Interface: (For techies)
 
-**navigate to:**
+**🫴 navigate to:**
 
 ```cd src
 ```
 
-**Fetch and set a wallpaper from Pexels:**
+**🫴 Fetch and set a wallpaper from Pexels:**
 
 ```sh
 python main.py --set-wallpaper "hindu Spirituality" --orientation "landscape" --resolution "1920x1080" --monitor 0
 
 ```
 
-**Set Wallpaper from Various Sources like Reddit , unsplash , Nasa apod:**
+**🫴 Set Wallpaper from Various Sources like Reddit , unsplash , Nasa apod:**
 
 ```sh
 python main.py --set-wallpaper "A beautiful sunset" --source reddit
@@ -102,7 +102,7 @@ python main.py --set-wallpaper "A beautiful sunset" --source unsplash
 python main.py --set-wallpaper "A beautiful sunset" --source nasa
 ```
 
-**Set Previous used wallpaper:**
+**🫴 Set Previous used wallpaper:**
 
 ```sh
 
@@ -110,19 +110,19 @@ python main.py --previous 2 --monitor 0
 
 ```
 
-**Generate a custom wallpaper:**
+**🫴 Generate a custom wallpaper:**
 
 ```sh
 python main.py --source custom --query "a beautiful sunset" --resolution "1024x1024"
 
 ```
-**Retrive the wallpaper History:**
+**🫴 Retrive the wallpaper History:**
 
 ```sh
 python main.py --list-history
 ```
 
-### Terminal User Interface (For Normal users non techies)
+### 🧑‍🔧🦾 Terminal User Interface (For Normal users non techies)
 
 ##### **Run the TUI:**
 
@@ -133,7 +133,7 @@ python src/tui.py
 ***Use the TUI to select predefined queries, enter custom queries, and fetch wallpapers.***
 
 
-## Example Use Case
+## 🌱 Example Use Case
 
 Imagine you want to refresh your desktop wallpaper every day with a new image of nature. You can set up a cron job (on Unix-based systems) or a scheduled task (on Windows) to run the following command daily:
 
@@ -143,14 +143,14 @@ python src/main.py --source pexels --query "nature" --orientation "landscape" --
 
 This will automatically fetch a new nature wallpaper from Pexels and set it as your desktop background.
 
-## Contributing
+## 🎮 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
+## 🪪 License
 
 This project is licensed under the MIT License.
 
-**Enjoy your new wallpapers!**
+**Enjoy your new wallpapers!!!**
 
 ![Enjoy ur Wallpapers !!](testimages/33e1bf10-174b-47ab-bae1-a77b544b7ce7.jpg)
