@@ -1,0 +1,14 @@
+# Ignore the .env file
+.env
+
+# Ignore other files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
