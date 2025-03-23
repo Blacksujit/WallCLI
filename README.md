@@ -78,7 +78,8 @@ wallpaper-cli-tool/
 
 **🫴 navigate to:**
 
-```cd src
+```
+cd src
 ```
 
 **🫴 Fetch and set a wallpaper from Pexels:**
