@@ -50,3 +50,4 @@ D:\wallpaper-cli-tool\src\wallpapers\beach_3.jpg
 D:\wallpaper-cli-tool\src\wallpapers\beach_4.jpg
 D:\wallpaper-cli-tool\src\wallpapers\abstract_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\abstract_1.jpg
+D:\wallpaper-cli-tool\src\wallpapers\9f5283ed-000a-4fbf-a27c-b161b4665b21.jpg
