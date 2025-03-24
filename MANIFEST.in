@@ -1,0 +1,3 @@
+include src/tui_style.css
+include src/wallpaper_history.txt
+include .env
