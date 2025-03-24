@@ -66,3 +66,5 @@ setup(
     ],
     python_requires=">=3.6",
 )
+
+# Added the setup.py for production and pypi project
