@@ -101,13 +101,16 @@ pip install -r requirements.txt
 
 **You can install the package directly from PyPI:**
 
+-> Visit For pypi project:
+
+[PYPI Wall-CLI Project Link](https://pypi.org/project/wallpaper-cli-tool/)
+
 ```
 pip install wallpaper-cli-tool 
 ```
 
 **For Package Installation Steps**:
 
-[PYPI Wall-CLI Project Link](https://pypi.org/project/wallpaper-cli-tool/)
 
 just u have to put ->>**`wallpaper-cli-tool` instead of `python main.py`  in commands**
 
