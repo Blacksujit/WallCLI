@@ -7,11 +7,19 @@ Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautif
 
 ## ✨✅Samples of fetched and Generated Wallpapers:
 
+**1.) Query - Scenary**
+
 ![Wall 1](src/wallpapers/city_night_2.jpg)
+
+**2.) Query - Spirituality**
 
 ![Wall 2](src/wallpapers/ganga_arti_2.jpg)
 
+**3.) Query - Ganga Arti**
+
 ![Wall3](src/wallpapers/hindu_spirituality_1.jpg)
+
+**4.) Query - Mountains**
 
 ![Wall 4](src/wallpapers/mountains_2.jpg)
 
