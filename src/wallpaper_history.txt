@@ -138,3 +138,11 @@ D:\wallpaper-cli-tool\src\wallpapers\spirituality_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\2023_03_20_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\2025_03_20_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\9f5283ed-000a-4fbf-a27c-b161b4665b21.jpg
+D:\wallpaper-cli-tool\src\wallpapers\2023_03_20_2.jpg
+D:\wallpaper-cli-tool\src\wallpapers\2023_03_20_3.jpg
+D:\wallpaper-cli-tool\src\wallpapers\2023_03_20_4.jpg
+D:\wallpaper-cli-tool\src\wallpapers\2023_03_20_5.jpg
+D:\wallpaper-cli-tool\src\wallpapers\mountains_12.jpg
+D:\wallpaper-cli-tool\src\wallpapers\rivers_1.jpg
+D:\wallpaper-cli-tool\src\wallpapers\rivers_2.jpg
+D:\wallpaper-cli-tool\src\wallpapers\rivers_3.jpg

@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+                    
+        <script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="https://scripts.mediavine.com/tags/looper.js"></script>    <link rel="preload" href="/wp-content/themes/unified/css/looper.min.css?design=2&v=1742484259" as="style">
+                    <link class="preloadFont" rel="preload" href="https://www.looper.com/font/a-ubuntu.woff2" as="font" crossorigin>
+                    <link class="preloadFont" rel="preload" href="https://www.looper.com/font/a-ubuntu-condensed.woff2" as="font" crossorigin>
+                    <style>
+            body{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;margin:0}svg.icon{height:20px;width:20px}main{padding-top:52px}figcaption,figure,main{display:block}article .news-article{position:relative}h1{font-size:2em;margin:.67em 0}img{max-width:100%;height:auto}a,a:visited{text-decoration:none!important;text-decoration:none;color:#3ab6f6}#header{background:#000;height:50px;position:fixed;top:0;left:0;width:100%;z-index:1000;transition:margin-top .3s ease-in-out;-webkit-transition:margin-top .3s ease-in-out;box-shadow:0 1px 10px 2px rgb(0 0 0 / 30%);height:56px}.nav-drop{display:none}article,aside,footer,header,nav,section{display:block}#header-container{height:100%;display:flex;align-items:center;width:calc(100% - 40px);max-width:1400px;margin:auto}#hamburger-holder{height:100%;cursor:pointer;position:relative;min-width:24px}#logo{height:37px;line-height:37px;position:absolute;left:0;right:0;margin:0 auto;font-size:0}#search-container{height:50px;line-height:50px}#top-nav-holder{font-size:0;z-index:3;position:relative;margin-right:10px;overflow:hidden}#social-nav-holder{display:inline-block;line-height:0;font-size:0}#top-nav-holder,#social-nav-holder,.divider-vertical{display:none}.top-nav-scrolled{display:none}#is-mobile,#is-tablet{display:none;height:1px;width:1px;position:absolute;bottom:0;left:0;background:transparent;margin-left:-1000em}#main,#index section header,#index section article{width:calc(100% - 24px);margin:auto}#content.article .image-holder img,#content.article .image-holder picture{width:100%;height:calc(100vw*0.56);display:block}.credit-image-wrap .gallery-image-credit,.inline-credit-wrap .gallery-image-credit{font:11px Helvetica;position:absolute;bottom:10px;right:10px;color:#fff;text-shadow:-1px -1px 0 rgba(0,0,0,0.75),1px -1px 0 rgba(0,0,0,0.75),-1px 1px 0 rgba(0,0,0,0.75),1px 1px 0 rgba(0,0,0,0.75)}.byline-container{padding-top:12px;padding-bottom:12px;font-size:11px;padding-top:18px;padding-bottom:14px;border-bottom:2px solid rgba(232,235,236,1)}.byline-by{color:#2a2524}a.byline-author{color:#2a2524;font-weight:bold;text-transform:uppercase}.byline-review{margin-top:8px}.byline-timestamp{color:#958c8b;text-transform:uppercase}.byline-slash{margin-left:8px;margin-right:8px}.columns-holder,.columns-holder p,.about-content p{font-size:20px;line-height:27px}#main.infinite .columns-holder p,#main.infinite article.news-post li{font-size:19px;line-height:32px}#main .image-holder{margin:0 -12px;position:relative}.google-ad-placeholder,.google-ad-placeholder.pull-right,.google-ad-placeholder.pull-right.loaded{position:relative;float:none;margin:0 -12px;width:320px;text-align:center}.google-ad-placeholder.between-p:empty,.google-ad-placeholder.between-p > div:empty{min-height:280px;min-width:1px}#adslot-q4top.google-ad-placeholder:empty,#adslot-q4top.google-ad-placeholder > div:empty{min-height:50px;min-width:1px}#adslot-q4top.google-ad-placeholder{margin:0 auto;padding-top:16px}#primis-container{min-height:218px}@media (min-width:360px){.google-ad-placeholder,.google-ad-placeholder.pull-right,.google-ad-placeholder.pull-right.loaded{margin:auto}}@media (min-width:440px){.google-ad-placeholder,.google-ad-placeholder.pull-right,.google-ad-placeholder.pull-right.loaded{margin:auto auto 10px;text-align:center}}@media (min-width:728px){#main.infinite .holder .google-ad-placeholder,#main.infinite .holder .google-ad-placeholder.pull-right,#main.infinite .holder .google-ad-placeholder.pull-right.loaded{width:728px}.google-ad-placeholder.between-p:empty,.google-ad-placeholder.between-p > div:empty{min-height:280px;min-width:1px}#adslot-q4top.google-ad-placeholder:empty,#adslot-q4top.google-ad-placeholder > div:empty{min-height:90px}}@media (min-width:768px){.news-article h1{font-size:48px;line-height:52px;margin-top:25px;margin-bottom:10px}.columns-holder,.columns-holder p,.about-content p{font-size:22px;line-height:32px}#content.article .image-holder img,#content.article .image-holder picture{width:100%;height:auto}#main .image-holder{margin:0 auto 5px}#primis-container{min-height:281px}}@media (min-width:926px){#header{height:62px}#logo{margin:auto 20px auto 35px;position:relative}#search-container{position:relative;flex:1;height:62px;line-height:62px}#top-nav-holder{display:inline-block;line-height:62px;height:62px}#content.article{width:780px}#main.infinite{max-width:780px;margin:auto}#main,section#features{width:calc(100% - 40px);margin:auto 20px}main{padding-top:62px}main .holder{margin:auto}#main.infinite #content.article{width:100%;max-width:780px}.google-ad-placeholder{width:auto}}@media (min-width:1025px){.google-ad-placeholder.between-p:empty,.google-ad-placeholder.between-p > div:empty{min-height:90px;min-width:1px}}@media (min-width:1200px){#logo{margin-right:50px}#main.infinite{position:relative;left:-185px}}@media (min-width:1400px){main,#main,#main.index{max-width:1400px;margin:0 auto}#main.infinite #content.article{width:780px}#content.article{width:1000px}}@media (min-width:1550px){#main.infinite{position:static}}@media screen and (max-device-width:600px),screen and (max-width:750px) and (orientation:portrait){#is-mobile{display:block}}@media only screen and (min-device-width:481px) and (max-device-width:1024px) and (orientation:portrait),only screen and (min-device-width:481px) and (max-device-width:1024px) and (orientation:landscape),only screen and (min-device-width:1024px) and (max-device-width:1280px) and (-webkit-min-device-pixel-ratio:1.5) and (orientation:landscape),only screen and (min-device-width:1024px) and (max-device-width:1280px) and (-o-min-device-pixel-ratio:3/2) and (orientation:landscape),only screen and (min-device-width:1024px) and (max-device-width:1280px) and (min--moz-device-pixel-ratio:1.5) and (orientation:landscape){#is-tablet{display:block}}.dummy-rule{padding:1px}svg.icon,svg.icon *{fill:rgb(124,141,150)}svg.icon:hover,svg.icon:hover *{fill:rgb(58,182,246)}*{font-family:Helvetica,sans-serif;max-height:1000000px}#logo,#logo img,.nav-drop .logo img{width:104px;height:37px}.news-article h1{margin-bottom:13px;font-size:33px;line-height:37px;letter-spacing:-3.5px;word-spacing:-2px;padding-top:5px}.news-article h2{font-size:22px;margin-top:30px;margin-bottom:7px;line-height:33px;letter-spacing:0.2px}#main.infinite article.news-post p{font-size:19px;line-height:32px;margin-top:17px;word-spacing:1.8px;letter-spacing:-0.1px}#gdpr{display:none}.score{padding:6px 0;text-align:center}.procon{display:grid;grid-template-columns:100%}.procon .review-divider{display:block;background:#fff;height:15px}.procon figure{margin:0;padding:10px 20px}.procon figure ul{margin:0;list-style:none;padding:0}.review .procon svg.icon{float:left;margin-top:5px;padding-right:10px;margin-left:-26px;height:11px;width:15px}.review .procon .con svg.icon{margin-top:6px}#main.infinite article.news-post .procon li{font-size:15px;list-style:none;overflow-x:visible;line-height:1.5;padding-left:26px;margin:0 0 10px}div#adslot-q4top{display:none}@media (min-width:768px){.news-article h1{margin-bottom:12px;font-size:45px;line-height:56px;margin-top:27px;letter-spacing:-4.5px;word-spacing:8px}#main.infinite article.news-post p{font-size:17px;line-height:32px;margin-top:17px;word-spacing:-1.4px;letter-spacing:0.3px}.news-article h2{font-size:27.5px;line-height:37px;margin-top:27px;margin-bottom:15px;word-spacing:1.2px;letter-spacing:0.25px}}@media (min-width:926px){.procon{grid-template-columns:calc(50% - 30px) 60px calc(50% - 30px)}.procon figure.pro{padding:10px 0 0 30px}.procon figure.con{padding:10px 30px 0 0}.procon .review-divider{display:block;background:#dfdfe0;height:100%;width:1px;align-self:center;margin:auto}}@media (min-width:1200px){body main#main div#floatingAd{width:300px;clip-path:unset}}    </style>
+        <link rel="stylesheet" type="text/css" href="/wp-content/themes/unified/css/looper.min.css?design=2&v=1742484259" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+    <meta http-equiv="X-UA-Compatible" content="IE=10" />
+        <meta property="og:image" content="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/intro-1651081040.jpg" />
+            <meta name="robots" content="max-image-preview:large">
+        <meta name="thumbnail" content="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/intro-1651081040.jpg">
+        <title>The Untold Truth Of River Monsters</title>
+    <meta property="og:title" content="The Untold Truth Of River Monsters - Looper">
+    <meta name="twitter:title" content="The Untold Truth Of River Monsters - Looper">
+    <meta property="og:description" content="Here's how Jeremy Wade developed a passion for finding really weird fish, and became a reality TV legend in the bargain.">
+    <meta name="twitter:description" content="Here's how Jeremy Wade developed a passion for finding really weird fish, and became a reality TV legend in the bargain.">
+    <meta property="og:site_name" content="Looper" />
+    <meta name='description' content="Here&#039;s how Jeremy Wade developed a passion for finding really weird fish, and became a reality TV legend in the bargain." />
+            <meta property="mrf:tags" content="Content Type:Feature;Category:Television;Pitcher:Unknown;Important Topic: False" />
+                <meta property="og:type" content="article">
+                    <meta property="og:url" content="https://www.looper.com/72292/untold-truth-river-monsters/"/>
+        
+                <meta property="article:published_time" content="2017-06-27T14:08:17+00:00" />
+        <meta property="article:modified_time" content="2022-04-27T18:28:29+00:00" />
+        <meta property="article:author" content="Carmen Ribecca" />
+                        <meta property="article:author" content="Chris Condry" />
+                            
+        <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/intro-1651081040.jpg">
+
+    <link rel="shortcut icon" href="https://www.looper.com/img/looper-favicon-448x448.png">
+    <link rel="icon" href="https://www.looper.com/img/looper-favicon-448x448.png">
+
+            <link rel="canonical" href="https://www.looper.com/72292/untold-truth-river-monsters/"/>
+    
+            <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://www.looper.com/feed/" />
+    
+            <script async id="ebx" src="https://applets.ebxcdn.com/ebx.js"></script>
+    
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.looper.com\/72292\/untold-truth-river-monsters\/","url":"https:\/\/www.looper.com\/72292\/untold-truth-river-monsters\/","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.looper.com\/category\/television\/","name":"Television"}}]}},"headline":"The Untold Truth Of River Monsters","image":{"@type":"ImageObject","url":"https:\/\/www.looper.com\/img\/gallery\/the-untold-truth-of-river-monsters\/intro-1651081040.jpg","height":438,"width":780},"datePublished":"2017-06-27T14:08:17+00:00","dateModified":"2022-04-27T18:28:29+00:00","author":[{"@type":"Person","name":"Carmen Ribecca","description":"Carmen's career started in local video production around Central Pennsylvania. His love of storytelling, mixed with his keen interest in pop culture, led him to writing and editing work on The Superficial, a bygone snarky celebrity blog.","url":"https:\/\/www.looper.com\/author\/carmenribecca\/","knowsAbout":["Editorial Strategy","Project Management","Team Leadership"],"alumniOf":{"@type":"Organization","name":"Indiana University Of Pennsylvania"},"sameAs":["https:\/\/www.instagram.com\/cribecca"]},{"@type":"Person","name":"Chris Condry","description":"Before taking his position as a Feature Writer at Looper, Chris's life of writing followed two altogether different paths: publishing poetry in literary journals and zines, as well as publishing his research as a biologist. When the 2020 pandemic forced him to pivot careers, he finally embraced writing full-time, working as a ghostwriter and editorial intern for Reason & Watson.","url":"https:\/\/www.looper.com\/author\/chriscondry\/","knowsAbout":["Marvel Cinematic Universe","Independent Comics","The Witcher Franchise"],"alumniOf":[{"@type":"Organization","name":"UMass Amherst"},{"@type":"Organization","name":"San Francisco State University"}]}],"publisher":{"@type":"Organization","name":"Looper","url":"https:\/\/www.looper.com\/","publishingPrinciples":"https:\/\/www.looper.com\/policies\/","logo":{"@type":"ImageObject","caption":"Looper Logo","url":"https:\/\/www.looper.com\/img\/Looper_RGB.png","width":"1181","height":"591"},"description":"The latest film and TV news, movie trailers, exclusive interviews, reviews, as well as informed opinions on everything Hollywood has to offer.","sameAs":["https:\/\/www.facebook.com\/LooperMoviesTV","https:\/\/www.youtube.com\/c\/looper","https:\/\/www.instagram.com\/looperhq","https:\/\/flipboard.com\/@Looper","https:\/\/story.snapchat.com\/p\/94e00f7f-3dd0-4ebf-9d73-e13e781b2462","https:\/\/news.google.com\/publications\/CAAqBwgKMPuphAsw6uaAAw"]},"description":"Here's how Jeremy Wade developed a passion for finding really weird fish, and became a reality TV legend in the bargain."}</script>
+
+    </head>
+<body>
+<div id="wrapper">
+    <div class="page-wrap">
+        <header id="header" class=" ">
+            <div class="nav-drop">
+                <div class="jcf-scrollable">
+                    <div class="aside-holder">
+                        <nav id="aside-nav">
+                            <div class="nav-top">
+                                <div class="logo">
+                                    <a href="/" class="logo-holder">
+                                                                                    <img src="https://www.looper.com/img/looper_logo_white.svg" alt="Looper" width="104" height="37">
+                                                                            </a>
+                                    <a href="#" class="nav-opener close">&times;</a>
+                                </div>
+                            </div>
+                                                                                        <ul>
+                                                                            <li class="exclusives "><a href="/category/exclusives/">EXCLUSIVES</a></li>
+                                                                            <li class="movies "><a href="/category/movies/">MOVIES</a></li>
+                                                                            <li class="television "><a href="/category/television/">TV</a></li>
+                                                                            <li class="streaming "><a href="/category/streaming/">STREAMING</a></li>
+                                                                            <li class="comics "><a href="/category/comics/">COMICS</a></li>
+                                                                            <li class="reviews "><a href="/category/reviews/">REVIEWS</a></li>
+                                                                            <li class="news "><a href="/category/news/">NEWS</a></li>
+                                                                            <li class="features "><a href="/category/features/">FEATURES</a></li>
+                                                                        <li class="social-icons">
+                                        <a href="http://www.facebook.com/LooperMoviesTV" target="_blank" title="Facebook" aria-label="Facebook"><svg class="icon"><use xlink:href="#facebook"></use></svg></a><a href="https://www.youtube.com/c/looper" target="_blank" title="YouTube" aria-label="YouTube"><svg class="icon"><use xlink:href="#youtube"></use></svg></a><a href="https://www.instagram.com/looperhq" target="_blank" title="Instagram" aria-label="Instagram"><svg class="icon"><use xlink:href="#instagram"></use></svg></a><a href="https://flipboard.com/@Looper" target="_blank" title="Flipboard" aria-label="Flipboard"><svg class="icon"><use xlink:href="#flipboard"></use></svg></a><a href="https://story.snapchat.com/p/94e00f7f-3dd0-4ebf-9d73-e13e781b2462" target="_blank" title="Snapchat" aria-label="Snapchat"><svg class="icon"><use xlink:href="#snapchat"></use></svg></a><a href="https://news.google.com/publications/CAAqBwgKMPuphAsw6uaAAw" target="_blank" title="Google" aria-label="Google"><svg class="icon"><use xlink:href="#google"></use></svg></a><a href="/feed/" target="_blank" title="RSS" aria-label="RSS"><svg class="icon"><use xlink:href="#rss"></use></svg></a>                                    </li>
+
+                                    
+                                    
+                                    <li class="newsletter-container"><div class="newsletter advertise"><a href="https://static.com/advertise" target="_blank" title="Advertise" aria-label="Advertise"><svg><use xlink:href="#advertise"></use></svg> Advertise</a></div></li>
+
+                                    <li class="info-links first-info-link"><a href="/about/">About</a></li>
+                                    <li class="info-links"><a href="/policies/">Editorial Policies</a></li>
+                                                                            <li class="info-links"><a href="/reviews-policy-guidelines/">Reviews Policy</a></li>
+                                                                                                            <li class="info-links">
+                                        <a href="https://www.looper.com/privacy-policy/" target="_blank">Privacy Policy</a>                                    </li>
+                                    <li class="info-links"><a href="https://www.static.com/terms" target="_blank">Terms of Use</a></li>
+                                </ul>
+                                                    </nav>
+                        <div class="nav-bottom">
+                            <span class="copyright-info">&copy; 2025                                <a href="https://www.static.com/" target="_blank">Static Media</a>. All Rights Reserved
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="bg"></div>
+         
+            <div id="header-container">
+                <div id="hamburger-holder">
+                    <div class="hamburger nav-opener"></div>
+                </div>
+
+                                    <div id="logo" class="top-nav-standard">
+                                        <a href="/" >
+                                                            <img src="https://www.looper.com/img/looper_logo_white.svg" alt="Looper" width="104" height="37">
+                                                    </a>
+                                    </div>
+                
+                <div id="logo-icon" class="top-nav-scrolled">
+                    <a href="/" >
+                                                    <img src="https://www.looper.com/img/looper_icon_color.svg" alt="Looper" width="36" height="20">
+                                            </a>
+                </div>
+
+                <div id="top-nav-title" class="top-nav-scrolled">The Untold Truth Of River Monsters</div>
+
+                                    <div id="search-container" class="top-nav-standard">
+                        <nav id="top-nav-holder">
+                                                    <a href="/category/exclusives/" class="exclusives ">EXCLUSIVES</a>
+                                                    <a href="/category/movies/" class="movies ">MOVIES</a>
+                                                    <a href="/category/television/" class="television ">TV</a>
+                                                    <a href="/category/streaming/" class="streaming ">STREAMING</a>
+                                                    <a href="/category/comics/" class="comics ">COMICS</a>
+                                                    <a href="/category/reviews/" class="reviews ">REVIEWS</a>
+                                                    <a href="/category/news/" class="news ">NEWS</a>
+                                                    <a href="/category/features/" class="features ">FEATURES</a>
+                                                </nav>
+                    </div>
+                
+                                    <nav id="social-nav-holder" class="top-nav-standard">
+                        <svg width="0" height="0" class="hidden">
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="rss">
+                                <path d="M4.259 23.467A4.265 4.265 0 000 27.719a4.25 4.25 0 004.259 4.244 4.25 4.25 0 004.265-4.244 4.265 4.265 0 00-4.265-4.252zM.005 10.873v6.133c3.993 0 7.749 1.562 10.577 4.391A14.897 14.897 0 0114.966 32h6.16c0-11.651-9.478-21.127-21.121-21.127zM.012 0v6.136C14.255 6.136 25.848 17.74 25.848 32H32C32 14.36 17.648 0 .012 0z"></path>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="twitter">
+                                <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="facebook">
+                                <path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"></path>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="flipboard">
+                                <path d="M0 0v32h32V0zm25.6 12.8h-6.4v6.4h-6.4v6.4H6.4V6.4h19.2z"></path>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="instagram">
+                                <path d="M16 2.881c4.275 0 4.781.019 6.462.094 1.563.069 2.406.331 2.969.55a4.952 4.952 0 011.837 1.194 5.015 5.015 0 011.2 1.838c.219.563.481 1.412.55 2.969.075 1.688.094 2.194.094 6.463s-.019 4.781-.094 6.463c-.069 1.563-.331 2.406-.55 2.969a4.94 4.94 0 01-1.194 1.837 5.02 5.02 0 01-1.837 1.2c-.563.219-1.413.481-2.969.55-1.688.075-2.194.094-6.463.094s-4.781-.019-6.463-.094c-1.563-.069-2.406-.331-2.969-.55a4.952 4.952 0 01-1.838-1.194 5.02 5.02 0 01-1.2-1.837c-.219-.563-.481-1.413-.55-2.969-.075-1.688-.094-2.194-.094-6.463s.019-4.781.094-6.463c.069-1.563.331-2.406.55-2.969a4.964 4.964 0 011.194-1.838 5.015 5.015 0 011.838-1.2c.563-.219 1.412-.481 2.969-.55 1.681-.075 2.188-.094 6.463-.094zM16 0c-4.344 0-4.887.019-6.594.094-1.7.075-2.869.35-3.881.744-1.056.412-1.95.956-2.837 1.85a7.833 7.833 0 00-1.85 2.831C.444 6.538.169 7.7.094 9.4.019 11.113 0 11.656 0 16s.019 4.887.094 6.594c.075 1.7.35 2.869.744 3.881.413 1.056.956 1.95 1.85 2.837a7.82 7.82 0 002.831 1.844c1.019.394 2.181.669 3.881.744 1.706.075 2.25.094 6.594.094s4.888-.019 6.594-.094c1.7-.075 2.869-.35 3.881-.744 1.05-.406 1.944-.956 2.831-1.844s1.438-1.781 1.844-2.831c.394-1.019.669-2.181.744-3.881.075-1.706.094-2.25.094-6.594s-.019-4.887-.094-6.594c-.075-1.7-.35-2.869-.744-3.881a7.506 7.506 0 00-1.831-2.844A7.82 7.82 0 0026.482.843C25.463.449 24.301.174 22.601.099c-1.712-.081-2.256-.1-6.6-.1z"></path>
+                                <path d="M16 7.781c-4.537 0-8.219 3.681-8.219 8.219s3.681 8.219 8.219 8.219 8.219-3.681 8.219-8.219A8.221 8.221 0 0016 7.781zm0 13.55a5.331 5.331 0 110-10.663 5.331 5.331 0 010 10.663zM26.462 7.456a1.919 1.919 0 11-3.838 0 1.919 1.919 0 013.838 0z"></path>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" id="linkedin">
+                                <path d="M100.3 448H7.4V148.9h92.9zM53.8 108.1C24.1 108.1 0 83.5 0 53.8a53.8 53.8 0 0 1 107.6 0c0 29.7-24.1 54.3-53.8 54.3zM447.9 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z"/>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" id="muckrack">
+                                <path d="M 0 0 L 0 300 L 300 300 L 300 0 L 0 0 z M 200.86328 96.025391 C 210.72578 96.000391 220.65 95.999609 229 96.099609 C 256.4 96.099609 269.69922 116.40078 269.69922 136.30078 C 269.59922 149.30078 264.00078 161.99961 252.80078 169.59961 C 252.80078 169.59961 252 170.29961 249.5 171.09961 L 268.19922 204.5 L 267.40039 209.5 L 236.80078 209.5 L 219.69922 174.5 L 202.69922 174.5 L 202.69922 209.5 L 173.09961 209.5 L 173.09961 96.099609 C 181.19961 96.099609 191.00078 96.050391 200.86328 96.025391 z M 29.599609 96.400391 L 40.5 96.400391 L 94.099609 145.5 L 147.5 96.400391 L 158.90039 96.400391 L 158.90039 209.59961 L 129.30078 209.59961 L 129.30078 150.5 L 95.699219 180 L 92.300781 180 L 59.199219 150.5 L 59.199219 209.59961 L 29.599609 209.59961 L 29.599609 96.400391 z M 202.80078 120.59961 L 202.80078 150.30078 L 228.59961 150.30078 C 236.79961 150.30078 240.90039 142.29922 240.90039 135.19922 C 240.90039 127.99922 236.99961 120.59961 228.59961 120.59961 L 202.80078 120.59961 z " />
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="youtube">
+                                <path d="M31.681 9.6s-.313-2.206-1.275-3.175C29.187 5.15 27.825 5.144 27.2 5.069c-4.475-.325-11.194-.325-11.194-.325h-.012s-6.719 0-11.194.325c-.625.075-1.987.081-3.206 1.356C.631 7.394.325 9.6.325 9.6s-.319 2.588-.319 5.181v2.425c0 2.587.319 5.181.319 5.181s.313 2.206 1.269 3.175c1.219 1.275 2.819 1.231 3.531 1.369 2.563.244 10.881.319 10.881.319s6.725-.012 11.2-.331c.625-.075 1.988-.081 3.206-1.356.962-.969 1.275-3.175 1.275-3.175s.319-2.587.319-5.181v-2.425c-.006-2.588-.325-5.181-.325-5.181zM12.694 20.15v-8.994l8.644 4.513-8.644 4.481z"></path>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="pinterest">
+                                <path d="M16 0C7.175 0 0 7.175 0 16s7.175 16 16 16 16-7.175 16-16S24.825 0 16 0zm0 29.863c-1.431 0-2.806-.219-4.106-.619.563-.919 1.412-2.431 1.725-3.631.169-.65.863-3.294.863-3.294.45.863 1.775 1.594 3.175 1.594 4.181 0 7.194-3.844 7.194-8.625 0-4.581-3.738-8.006-8.544-8.006-5.981 0-9.156 4.019-9.156 8.387 0 2.031 1.081 4.563 2.813 5.369.262.125.4.069.463-.188.044-.194.281-1.131.387-1.575a.427.427 0 00-.094-.4c-.575-.694-1.031-1.975-1.031-3.162 0-3.056 2.313-6.019 6.256-6.019 3.406 0 5.788 2.319 5.788 5.637 0 3.75-1.894 6.35-4.356 6.35-1.363 0-2.381-1.125-2.05-2.506.394-1.65 1.15-3.425 1.15-4.613 0-1.063-.569-1.95-1.756-1.95-1.394 0-2.506 1.438-2.506 3.369 0 1.225.412 2.056.412 2.056s-1.375 5.806-1.625 6.887c-.281 1.2-.169 2.881-.05 3.975-5.156-2.012-8.813-7.025-8.813-12.9 0-7.656 6.206-13.863 13.862-13.863s13.863 6.206 13.863 13.863c0 7.656-6.206 13.863-13.863 13.863z"></path>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="tiktok">
+                                <path d="M 22.472559,-3.8146973e-6 C 23.000559,4.5408962 25.535059,7.2481962 29.941559,7.5361962 v 5.1073998 c -2.5536,0.2496 -4.7905,-0.5856 -7.3922,-2.1601 v 9.5523 c 0,12.1348 -13.2292004,15.927 -18.5478004,7.2291 -3.4177,-5.597 -1.3248,-15.4181 9.6387004,-15.8117 v 5.3857 c -0.8352,0.1344 -1.728,0.3456 -2.5441,0.6241 -2.4384004,0.8256 -3.8209004,2.3712 -3.4369004,5.0977 0.7392,5.2226 10.3204004,6.7682 9.5235004,-3.4369 V 0.00959619 h 5.2898 z" />
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="twitch">
+                                <path d="M3 0l-3 5v23h8v4h4l4-4h5l9-9v-19h-27zM26 17l-5 5h-5l-4 4v-4h-6v-18h20v13z"></path><path d="M19 8h3v8h-3v-8z"></path><path d="M13 8h3v8h-3v-8z"></path>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="snapchat">
+                                <path d="M496.926,366.6c-3.373-9.176-9.8-14.086-17.112-18.153-1.376-.806-2.641-1.451-3.72-1.947-2.182-1.128-4.414-2.22-6.634-3.373-22.8-12.09-40.609-27.341-52.959-45.42a102.889,102.889,0,0,1-9.089-16.12c-1.054-3.013-1-4.724-.248-6.287a10.221,10.221,0,0,1,2.914-3.038c3.918-2.591,7.96-5.22,10.7-6.993,4.885-3.162,8.754-5.667,11.246-7.44,9.362-6.547,15.909-13.5,20-21.278a42.371,42.371,0,0,0,2.1-35.191c-6.2-16.318-21.613-26.449-40.287-26.449a55.543,55.543,0,0,0-11.718,1.24c-1.029.224-2.059.459-3.063.72.174-11.16-.074-22.94-1.066-34.534-3.522-40.758-17.794-62.123-32.674-79.16A130.167,130.167,0,0,0,332.1,36.443C309.515,23.547,283.91,17,256,17S202.6,23.547,180,36.443a129.735,129.735,0,0,0-33.281,26.783c-14.88,17.038-29.152,38.44-32.673,79.161-.992,11.594-1.24,23.435-1.079,34.533-1-.26-2.021-.5-3.051-.719a55.461,55.461,0,0,0-11.717-1.24c-18.687,0-34.125,10.131-40.3,26.449a42.423,42.423,0,0,0,2.046,35.228c4.105,7.774,10.652,14.731,20.014,21.278,2.48,1.736,6.361,4.24,11.246,7.44,2.641,1.711,6.5,4.216,10.28,6.72a11.054,11.054,0,0,1,3.3,3.311c.794,1.624.818,3.373-.36,6.6a102.02,102.02,0,0,1-8.94,15.785c-12.077,17.669-29.363,32.648-51.434,44.639C32.355,348.608,20.2,352.75,15.069,366.7c-3.868,10.528-1.339,22.506,8.494,32.6a49.137,49.137,0,0,0,12.4,9.387,134.337,134.337,0,0,0,30.342,12.139,20.024,20.024,0,0,1,6.126,2.741c3.583,3.137,3.075,7.861,7.849,14.78a34.468,34.468,0,0,0,8.977,9.127c10.019,6.919,21.278,7.353,33.207,7.811,10.776.41,22.989.881,36.939,5.481,5.778,1.91,11.78,5.605,18.736,9.92C194.842,480.951,217.707,495,255.973,495s61.292-14.123,78.118-24.428c6.907-4.24,12.872-7.9,18.489-9.758,13.949-4.613,26.163-5.072,36.939-5.481,11.928-.459,23.187-.893,33.206-7.812a34.584,34.584,0,0,0,10.218-11.16c3.434-5.84,3.348-9.919,6.572-12.771a18.971,18.971,0,0,1,5.753-2.629A134.893,134.893,0,0,0,476.02,408.71a48.344,48.344,0,0,0,13.019-10.193l.124-.149C498.389,388.5,500.708,376.867,496.926,366.6Zm-34.013,18.277c-20.745,11.458-34.533,10.23-45.259,17.137-9.114,5.865-3.72,18.513-10.342,23.076-8.134,5.617-32.177-.4-63.239,9.858-25.618,8.469-41.961,32.822-88.038,32.822s-62.036-24.3-88.076-32.884c-31-10.255-55.092-4.241-63.239-9.858-6.609-4.563-1.24-17.211-10.341-23.076-10.739-6.907-24.527-5.679-45.26-17.075-13.206-7.291-5.716-11.8-1.314-13.937,75.143-36.381,87.133-92.552,87.666-96.719.645-5.046,1.364-9.014-4.191-14.148-5.369-4.96-29.189-19.7-35.8-24.316-10.937-7.638-15.748-15.264-12.2-24.638,2.48-6.485,8.531-8.928,14.879-8.928a27.643,27.643,0,0,1,5.965.67c12,2.6,23.659,8.617,30.392,10.242a10.749,10.749,0,0,0,2.48.335c3.6,0,4.86-1.811,4.612-5.927-.768-13.132-2.628-38.725-.558-62.644,2.84-32.909,13.442-49.215,26.04-63.636,6.051-6.932,34.484-36.976,88.857-36.976s82.88,29.92,88.931,36.827c12.611,14.421,23.225,30.727,26.04,63.636,2.071,23.919.285,49.525-.558,62.644-.285,4.327,1.017,5.927,4.613,5.927a10.648,10.648,0,0,0,2.48-.335c6.745-1.624,18.4-7.638,30.4-10.242a27.641,27.641,0,0,1,5.964-.67c6.386,0,12.4,2.48,14.88,8.928,3.546,9.374-1.24,17-12.189,24.639-6.609,4.612-30.429,19.343-35.8,24.315-5.568,5.134-4.836,9.1-4.191,14.149.533,4.228,12.511,60.4,87.666,96.718C468.629,373.011,476.119,377.524,462.913,384.877Z"/>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" id="threads">
+                                <path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z" />
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="bluesky">
+                                <path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 618 478" id="google">
+                                <path d="M617.84 456.59C617.82 467.86 608.68 477 597.41 477.02H20.43C9.16 477 0.02 467.86 0 456.59V20.43C0.02 9.16 9.16 0.02 20.43 0H597.41C608.68 0.02 617.82 9.16 617.84 20.43V456.59ZM516.79 342.6V302.74C516.79 301.26 515.59 300.06 514.11 300.06H335.02V345.46H514.11C515.61 345.44 516.82 344.2 516.79 342.7C516.79 342.67 516.79 342.64 516.79 342.6ZM544.02 256.35V216.31C544.04 214.83 542.86 213.61 541.38 213.59C541.37 213.59 541.35 213.59 541.34 213.59H335.02V258.99H541.34C542.79 259.02 543.99 257.86 544.02 256.41C544.02 256.36 544.02 256.32 544.02 256.27V256.36V256.35ZM516.79 170.1V129.88C516.79 128.4 515.59 127.2 514.11 127.2H335.02V172.6H514.11C515.56 172.58 516.74 171.42 516.79 169.97V170.11V170.1ZM180.59 218.08V258.93H239.6C234.74 283.9 212.77 302.01 180.59 302.01C144.24 300.72 115.81 270.2 117.11 233.84C118.34 199.3 146.05 171.59 180.59 170.36C196.12 170.1 211.13 175.97 222.35 186.7L253.49 155.6C233.78 137.06 207.65 126.88 180.59 127.18C120.42 127.18 71.64 175.96 71.64 236.13C71.64 296.3 120.42 345.08 180.59 345.08C240.76 345.08 285 300.82 285 238.49C284.96 231.59 284.39 224.69 283.27 217.88L180.59 218.06V218.08Z"/>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512" id="podcast">
+                                <path d="M336 192h-16c-8.84 0-16 7.16-16 16v48c0 74.8-64.49 134.82-140.79 127.38C96.71 376.89 48 317.11 48 250.3V208c0-8.84-7.16-16-16-16H16c-8.84 0-16 7.16-16 16v40.16c0 89.64 63.97 169.55 152 181.69V464H96c-8.84 0-16 7.16-16 16v16c0 8.84 7.16 16 16 16h160c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16h-56v-33.77C285.71 418.47 352 344.9 352 256v-48c0-8.84-7.16-16-16-16zM176 352c53.02 0 96-42.98 96-96h-85.33c-5.89 0-10.67-3.58-10.67-8v-16c0-4.42 4.78-8 10.67-8H272v-32h-85.33c-5.89 0-10.67-3.58-10.67-8v-16c0-4.42 4.78-8 10.67-8H272v-32h-85.33c-5.89 0-10.67-3.58-10.67-8v-16c0-4.42 4.78-8 10.67-8H272c0-53.02-42.98-96-96-96S80 42.98 80 96v160c0 53.02 42.98 96 96 96z"/>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="envelope">
+                                <path d="M29 4h-26c-1.65 0-3 1.35-3 3v20c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3v-20c0-1.65-1.35-3-3-3zM12.461 17.199l-8.461 6.59v-15.676l8.461 9.086zM5.512 8h20.976l-10.488 7.875-10.488-7.875zM12.79 17.553l3.21 3.447 3.21-3.447 6.58 8.447h-19.579l6.58-8.447zM19.539 17.199l8.461-9.086v15.676l-8.461-6.59z"></path>
+                            </symbol>
+                                                        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 11" id="thumbsup">
+                                <path d="M14.652.355a1.174 1.174 0 0 0-1.683 0L5.397 8.072 2.03 4.642a1.174 1.174 0 0 0-1.682 0 1.229 1.229 0 0 0 0 1.716l4.206 4.287a1.175 1.175 0 0 0 1.683 0L14.65 2.07a1.229 1.229 0 0 0 0-1.715Z"/>
+                            </symbol>
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 11" id="thumbsdown">
+                                <path fill="#292F32" d="M9.861 10.217a.98.98 0 0 0 .696-.235.98.98 0 0 0 0-1.381L2.24.284A.98.98 0 0 0 .81 1.617l8.366 8.365a.98.98 0 0 0 .685.235Z"/>
+                                <path fill="#292F32" d="M1.555 10.217a.98.98 0 0 0 .685-.284l8.317-8.316A.98.98 0 0 0 9.176.236L.81 8.552a.98.98 0 0 0 0 1.43.98.98 0 0 0 .745.235Z"/>
+                            </symbol>
+                                                                                    
+                            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="advertise">
+                                <g clip-path="url(#clip0_1911_5435)">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M12 1.40497L2.26973 4.27073L0 2.34144V12.6558L2.26967 10.7271L3.84476 11.191V14.1933C3.84529 15.229 4.55813 16.067 5.43904 16.0676H9.23405C9.67247 16.0682 10.0745 15.8571 10.3609 15.5183C10.6488 15.1814 10.8284 14.709 10.8278 14.1932V13.2478L12 13.593V1.40497ZM5.09306 14.5997C5.00434 14.4935 4.95039 14.3537 4.94986 14.1932V11.5168L9.72281 12.9219V14.1932C9.72227 14.3537 9.66885 14.4935 9.5796 14.5997C9.48985 14.7047 9.37052 14.7676 9.23409 14.7676H5.4391C5.30214 14.7676 5.18281 14.7047 5.09306 14.5997Z" />
+                                <path d="M13 1.11045L17 -0.067627V15.0654L13 13.8875V1.11045Z" />
+                                </g>
+                                <defs>
+                                <clipPath id="clip0_1911_5435">
+                                <rect width="16" height="16" fill="white"/>
+                                </clipPath>
+                                </defs>
+                            </symbol>
+
+                        </svg>
+                        <a href="http://www.facebook.com/LooperMoviesTV" target="_blank" title="Facebook" aria-label="Facebook"><svg class="icon"><use xlink:href="#facebook"></use></svg></a><a href="https://www.youtube.com/c/looper" target="_blank" title="YouTube" aria-label="YouTube"><svg class="icon"><use xlink:href="#youtube"></use></svg></a><a href="https://www.instagram.com/looperhq" target="_blank" title="Instagram" aria-label="Instagram"><svg class="icon"><use xlink:href="#instagram"></use></svg></a><a href="https://flipboard.com/@Looper" target="_blank" title="Flipboard" aria-label="Flipboard"><svg class="icon"><use xlink:href="#flipboard"></use></svg></a><a href="https://story.snapchat.com/p/94e00f7f-3dd0-4ebf-9d73-e13e781b2462" target="_blank" title="Snapchat" aria-label="Snapchat"><svg class="icon"><use xlink:href="#snapchat"></use></svg></a><a href="https://news.google.com/publications/CAAqBwgKMPuphAsw6uaAAw" target="_blank" title="Google" aria-label="Google"><svg class="icon"><use xlink:href="#google"></use></svg></a><a href="/feed/" target="_blank" title="RSS" aria-label="RSS"><svg class="icon"><use xlink:href="#rss"></use></svg></a>                    </nav>
+
+                    
+                    <div class="newsletter advertise"><a href="https://static.com/advertise" target="_blank" title="Advertise" aria-label="Advertise"><svg><use xlink:href="#advertise"></use></svg> Advertise</a></div>
+                    
+                            
+                            <div id="top-nav-share" class="top-nav-scrolled"></div>
+	            
+            </div>
+            <div id="is-tablet"></div>
+            <div id="is-mobile"></div>
+        </header>
+<main id="main" role="main" class="infinite gallery" data-post-type="articles">
+    <div class="holder">
+        <div id="content" class="article">
+            
+
+            <article class="news-post">
+    
+    
+    <div class="breadcrumbs"><a href="/category/television/">Television</a></div>
+                <div class="news-article">
+                <h1 class="title-gallery" id="title-gallery" data-author="Carmen Ribecca" data-category="" data-content_type="" data-mod_date="2022-04-27" data-layout="Infinite" data-post_id="72292" data-pub_date="2017-06-27" data-day="Tuesday" data-dayhour="Tuesday-10AM" data-pubhour="10AM" data-num_slides="19" data-num_words="3600" data-pitcher="Unknown" data-intent="Legacy" data-ideation="Legacy" data-importanttopic="Legacy">The Untold Truth Of River Monsters</h1>
+            </div>
+    
+                <div class="news-article">
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap  lead-image-holder" data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="0" data-post-id="72292">
+                                             <picture id="pfdfe60b4fcedec36613d2b6e9069a502">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/intro-1651081040.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/intro-1651081040.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/intro-1651081040.jpg" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="0" data-slide-title="The Untold Truth Of River Monsters: " width="780" height="438" alt="Jeremy Wade smiling">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Dimitrios Kambouris/Getty Images</span>
+                    </div>
+                <div class="byline-container">
+<span class="byline-by">By</span> <a href="/author/carmenribecca/" class="byline-author">Carmen Ribecca</a> <span>and</span> <a href="/author/chriscondry/" class="byline-author">Chris Condry</a><span class="byline-timestamp"><span class="byline-slash"></span><time datetime="2022-04-27T14:28:29-04:00">Updated: April 27, 2022  2:28 pm EST</time></span>
+</div>
+				            <div class="columns-holder ">
+                <p></p>
+<p>"River Monsters" is the hit Animal Planet show that followed adventurer and extreme angler Jeremy Wade all over the globe in his search for the rarest and most terrifying freshwater fish in existence — not the <a href="https://www.looper.com/728204/the-most-ridiculous-aquatic-monster-movies-that-actually-happened/" target="_blank">oozy CG creatures from the movies</a>, but the real-life species that spawned the legends. While many other nature-based reality shows are clearly staged, "River Monsters" was regarded as one of the most authentic, mainly thanks to Wade's obvious passion and thorough knowledge of the titular beasts that lurked in the murky rivers, lakes, and ponds he visited.</p>
+<p>But for a show ostensibly about one man going fishing, "River Monsters" had a surprisingly storied and eventful history over its nine seasons. Here's a look at how the show came to be, how the cast and crew managed to keep it going in the face of nature's wrath, and some interesting lesser-known facts about the fishing show. This is the untold truth of "River Monsters."</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">Jeremy Wade used to just do this for fun</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="1" data-post-id="72292">
+                                             <picture id="pd5e65d261ae16ebe93a43ebd9037b000">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/jeremy-wade-used-to-just-do-this-for-fun-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/jeremy-wade-used-to-just-do-this-for-fun-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/jeremy-wade-used-to-just-do-this-for-fun-1650920491.jpg" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="1" data-slide-title="The Untold Truth Of River Monsters: Jeremy Wade used to just do this for fun" width="780" height="438" alt="Jeremy Wade holding a fish">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">What started out as a childhood hobby turned into a lifelong passion for Jeremy Wade. Speaking with <a href="https://www.wanderlust.co.uk/content/jeremy-wade-river-monsters-interview?page=all" target="_blank">Wanderlust</a>, he revealed that he learned how to fish from a friend and subsequently started angling in the local waterways of his rural English hometown. When the hobby became too popular locally, Wade took a three-month trip to India — the first of his many international fishing excursions.</p>
+<p dir="ltr">After the trip, Wade longed to explore other remote areas for fish, which led to a period of simple living and working odd jobs until he'd saved just enough for his next journey. Wade even nearly died from malaria during one trip on the Congo River, yet he returned to the same area multiple times. Eventually, he started making a little money writing for fishing magazines, but his main purpose in life seemed to be simply to travel, discover, and fish.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">One fish took Jeremy Wade 25 years to catch</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="2" data-post-id="72292">
+                                             <picture id="p67ac65b50b728eb354c55878f82dad6d">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/one-fish-took-25-years-to-catch-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/one-fish-took-25-years-to-catch-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/one-fish-took-25-years-to-catch-1650920491.jpg" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="2" data-slide-title="The Untold Truth Of River Monsters: One fish took Jeremy Wade 25 years to catch" width="780" height="438" alt="Jeremy Wade holding a tigerfish">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">Jeremy Wade often talks about one of his favorite catches being the Goliath tigerfish, which is a kind of giant piranha only found in the Congo River that can weigh over 100 pounds. In an interview with <a href="https://www.telegraph.co.uk/travel/activity-and-adventure/The-adventure-interview-Jeremy-Wade/" target="_blank">The Telegraph</a>, he revealed that he traveled to the region three times over a six-year period -– before "River Monsters" –- until he caught "a medium-size one." But of course, that wasn't enough for the guy who'd eventually build his career on hooking the biggest, rarest fish in the world.</p>
+<p dir="ltr">The show returned to the Congo River in its second season despite Wade's admission that "traveling there is very tiring and potentially dangerous." Nonetheless, he ended up <a href="https://www.youtube.com/watch?v=Two7S_BpnUE" target="_blank">hooking a 78-pounder</a>, which Wade described as "the big one I had been after for almost 25 years." The images of <a href="https://www.looper.com/832069/the-weirdest-catch-in-river-monsters-season-2/" target="_blank">Wade holding the Tigerfish</a> are oddly poetic, featuring his bright, beaming smile alongside the fish's own set of razor-sharp teeth.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">Climate change affected the show</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="3" data-post-id="72292">
+                                             <picture id="p4a558f456bb22fdff1b169dbba34ddb3">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/climate-change-affected-the-show-1651003081.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/climate-change-affected-the-show-1651003081.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/climate-change-affected-the-show-1651003081.jpg" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="3" data-slide-title="The Untold Truth Of River Monsters: Climate change affected the show" width="780" height="438" alt="Jeremy Wade underwater">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Suhaimi Abdullah/Getty Images</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">Water levels greatly affected Jeremy Wade's ability to find and catch monsters of the deep –- in fact, there are certain times of the year when fish are so spread out due to high floodwaters that, as Wade told <a href="https://www.thebiglead.com/posts/q-a-with-jeremy-wade-of-animal-planet-s-river-monsters-01dxkrv773q1" target="_blank">The Big Lead</a>, "They can be impossible to find." Some of that predictably has to do with climate change, which Wade once said made the annual river cycle "unpredictable" in more recent times (per <a href="https://www.metro.us/river-monsters-host-jeremy-wade-takes-care-of-unfinished-business-andunsettled-scores-in-final-season/" target="_blank">Metro</a>). Of course, rising global temperatures have other detrimental effects on aquatic wildlife as well.</p>
+<p dir="ltr">Speaking with <a href="https://www.theguardian.com/tv-and-radio/2015/apr/04/river-monsters-still-a-good-catch" target="_blank">The Guardian</a>, Wade said, "There has been a marked decline in fish sizes over the last few years. I've witnessed that myself and [by] talking to people." He said that his preferred catch-and-release approach is "the only way that freshwater fish stand a chance, worldwide." Given that Wade is such a dedicated biologist, it makes sense that he cares so deeply about all other elements of the planet's health as well.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">The show helped scientific research</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="4" data-post-id="72292">
+                                             <picture id="p1d478fd63421ec6a8c48d72a0e64d649">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-show-helped-scientific-research-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-show-helped-scientific-research-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-show-helped-scientific-research-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="4" data-slide-title="The Untold Truth Of River Monsters: The show helped scientific research" width="780" height="437" alt="Jeremy Wade in a river">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">A conservationist and environmentalist at his core, Wade once stated in a <a href="https://www.reddit.com/r/IAmA/comments/226tyj/i_am_the_real_jeremy_wade_host_of_river_monsters/" target="_blank">Reddit AMA</a> that part of his mission with "River Monsters" was science education. "And what is great now is having the platform to inform people about what lives in our lakes and rivers, which ... was not on people's radar at all," Wade said. "And looking after our rivers is quite an urgent concern. But people need to know of the existence of these creatures before they can start caring about them."</p>
+<p dir="ltr">To that end, Wade also told <a href="https://www.metro.us/river-monsters-host-jeremy-wade-takes-care-of-unfinished-business-andunsettled-scores-in-final-season/" target="_blank">Metro</a> that he's "worked with scientists to catch bull sharks in South Africa and tiger sharks in the Bahamas" so they can be tagged and studied. He also said he's been able to help scientists get close to fish that are "under a particular threat" so they can retrieve specimens and collect DNA samples. Turns out, "River Monsters" isn't just about Wade getting trophy pics next to fiercely fanged fish.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">Wade found all of his monsters</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="5" data-post-id="72292">
+                                             <picture id="p112f7c361e0287cef791f08645bf2bb0">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/wade-found-all-of-his-monsters-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/wade-found-all-of-his-monsters-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/wade-found-all-of-his-monsters-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="5" data-slide-title="The Untold Truth Of River Monsters: Wade found all of his monsters" width="780" height="438" alt="Jeremy Wade holding catfish">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">When "River Monsters" started, it would have been hard to imagine the phenomenon it quickly became. Jeremy Wade surely had a good number of ideas for episodes based on his own research and study, but with the series eventually going nine seasons, a lot more creatures got added to the list. Later on, the show even dipped into more sensational waters with its <a href="https://www.youtube.com/watch?v=u0zIxExHQcY" target="_blank">Chernobyl</a> and <a href="https://www.youtube.com/watch?v=YuJm55F9m2Q" target="_blank">Loch Ness Monster</a> episodes.</p>
+<p dir="ltr">Instead of riding things out until low ratings or a lack of ideas forced the show off the air, Wade and his team decided to hang it up once they felt they'd wrangled every river monster out there. "Some shows can run forever, but our subject matter is finite," he wrote in a press release announcing the end of the series (via <a href="https://www.mic.com/articles/176500/why-is-river-monsters-ending-the-reason-season-9-is-the-end-for-host-jeremy-wade#.Xdw0XZUvi" target="_blank">Mic</a>). "Ten years ago, I had a list in my head, which seemed impossibly ambitious at the time, but everything has now been ticked off -– and then some."</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">The show was criticized for demonizing the creatures</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="6" data-post-id="72292">
+                                             <picture id="p0c0353e1eb32cdbc4944741c3fae4e10">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/it-was-criticized-for-demonizing-the-creatures-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/it-was-criticized-for-demonizing-the-creatures-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/it-was-criticized-for-demonizing-the-creatures-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="6" data-slide-title="The Untold Truth Of River Monsters: The show was criticized for demonizing the creatures" width="780" height="438" alt="Jeremy Wade crouching with grouper">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">In 2013, YouTuber and science writer Kyle Hill penned an open letter to the creators of "River Monsters" in <a href="https://blogs.scientificamerican.com/but-not-simpler/an-open-letter-to-animal-planet-learn-the-difference-between-real-and-fake-monsters/" target="_blank">Scientific American</a>, voicing his concern over what he viewed as the show "taking up the torch and pitchfork as if these amazing animals truly were abominations." Hill's argument is that the colorful terminology used to describe the animals, like "killer, man-eater, assassins, and flesh-eaters," combined with the show's graphic reenactments of the stories of monster attacks, contributed to a wrongful perception that could lead to the "mostly harmless" animals being "feared or killed."</p>
+<p dir="ltr">"If you reach into the mists of pseudoscience just to pull out some good ratings, while at the same time demonizing some of the most astounding subjects of biology I have ever seen on the end of a fishing line," Hill said, "it won't be long until the only monsters out there will be us." That's pretty dramatic, but in fairness to Hill, he did give Wade his dues as being "incredibly concerned for the well-being of these fish."</p>
+<p dir="ltr">Wade responded to Hill in <a href="https://www.discovermagazine.com/the-sciences/an-open-letter-to-animal-planet-learn-the-difference-between-real-and-fake-monsters" target="_blank">Discover Magazine</a>, admitting to the sensationalism, but saying it was to help the show reach a "wide and diverse audience." Specifically addressing Hill's claims of fear-mongering, Wade wrote, "So while the programs do have a theme of fear, it's a positive message: instead of hiding from the thing you fear or trying to destroy it, you work to understand it and through understanding find that you can live with it."</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">Wade's one true fear is on land</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="7" data-post-id="72292">
+                                             <picture id="pd2b0ce0e99cb70665dec8f1ec2f7deae">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/wades-one-true-fear-is-on-land-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/wades-one-true-fear-is-on-land-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/wades-one-true-fear-is-on-land-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="7" data-slide-title="The Untold Truth Of River Monsters: Wade's one true fear is on land" width="780" height="437" alt="Jeremy Wade holding a snake">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">Over the course of his adventurous life, Jeremy Wade has contracted malaria, <a href="https://www.reddit.com/r/IAmA/comments/226tyj/comment/cgjvsqy/?utm_source=share&amp;utm_medium=web2x&amp;context=3" target="_blank">had a gun pulled on him</a>, and been interrogated by authorities on suspicion of spying –- and that's all before "River Monsters" even began. Since then, he's been bitten, jabbed, and rammed in the chest by an 80-pound arapaima in the Amazon so hard that his heart was bruised. Crew members on the show were even struck by lightning in one episode — an event that was <a href="https://www.youtube.com/watch?v=xskSIlRowec" target="_blank">captured on film</a>. </p>
+<p dir="ltr">But when asked by <a href="https://www.wanderlust.co.uk/content/jeremy-wade-river-monsters-interview?page=all" target="_blank">Wanderlust</a> what the biggest danger in "going after these big fish" was, Wade had a surprising answer. "The thing that I worry most about is road traffic," he said. "Indian mountain roads, for instance. No tread on the tyre [sic], a driver whose belief is that it is karma that will decide his fate, not the state of his vehicle." From the man who voluntarily <a href="https://conanclassic.com/video/jeremy-wade-pt-1-04-10-13" target="_blank">attached a bloodsucking lamprey</a> to his own neck, it makes sense that Wade's personal bogeymen aren't aquatic. Still, given all the dangerous things he's done professionally, perhaps he should have a little more faith in the people behind the wheel.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">The one fish that totally grossed Jeremy Wade out</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="8" data-post-id="72292">
+                                             <picture id="p6837afb5aa379dfd44380fa8695f7469">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-one-fish-that-totally-grosses-wade-out-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-one-fish-that-totally-grosses-wade-out-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-one-fish-that-totally-grosses-wade-out-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="8" data-slide-title="The Untold Truth Of River Monsters: The one fish that totally grossed Jeremy Wade out" width="780" height="439" alt="Jeremy Wade measuring a sawfish">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">During his <a href="https://www.reddit.com/r/IAmA/comments/226tyj/comment/cgjvu5r/?utm_source=share&amp;utm_medium=web2x&amp;context=3" target="_blank">Reddit AMA</a>, Jeremy Wade revealed (somewhat unbelievably) that he's most creeped out by the <a href="https://www.looper.com/834356/the-weirdest-catch-in-river-monsters-season-1/" target="_blank">Candiru Asu</a> — and not the one that's been known to "penetrate the urethra of a human being" and can only be removed by surgery. It's in the same family, but a little larger –- Wade estimates "about the size of a finger."</p>
+<p dir="ltr">Describing it as a "scavenging catfish in the Amazon" that "takes circular bites out of flesh," Wade wrote, "It just feels very disgusting to handle. It's very slimy and wriggly and just looks creepy. They have tiny luminous eyes." He doesn't mind grabbing flesh-eating piranhas or the freshwater sawfish whose mouth literally <a href="https://www.looper.com/835056/the-weirdest-catch-in-river-monsters-season-3/" target="_blank">looks like a hedge-trimmer</a>, but he's thoroughly creeped out by a tiny thing with beady eyes. Having seen and touched so many different creatures, it's difficult to predict exactly what <a href="https://www.youtube.com/watch?v=Swzhn9XLZVM" target="_blank">actually scares Wade</a>.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">River Monsters started with a documentary</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="9" data-post-id="72292">
+                                             <picture id="p0fbd7161fc61eeff043235ef4d971d03">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/it-all-started-with-a-documentary-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/it-all-started-with-a-documentary-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/it-all-started-with-a-documentary-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="9" data-slide-title="The Untold Truth Of River Monsters: River Monsters started with a documentary" width="780" height="438" alt="Jeremy Wade fishing and smiling">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">As previously mentioned, Jeremy Wade wasn't specifically (ahem) angling for a TV show when he started documenting his worldwide fishing expeditions; he was simply a biologist with a passion for conservation and education. It was only after a producer saw a newspaper photo of Wade holding a huge fish from the Amazon that he got his first shot — a 2002 documentary called "Jungle Hooks," which saw him return to the Amazon and capture a <a href="https://books.google.com/books?id=CDr7vTXoqXgC&amp;pg=PT10&amp;lpg=PT10&amp;dq=jungle+hooks&amp;source=bl&amp;ots=wZi1vIc49W&amp;sig=0DBaQASc_DqS0n4Z59-8jx2uyvE&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjouuu0tNvUAhUKSyYKHW-BBfI4ChDoAQg8MAU#v=onepage&amp;q=jungle%20hooks&amp;f=false" target="_blank">200-pound arapaima</a>.</p>
+<p dir="ltr">"Jungle Hooks" also captured the <a href="https://www.youtube.com/watch?v=3urailwDY2Y" target="_blank">harrowing plane crash</a> that Wade and his crew survived after their single-engine aircraft went down in the trees of the rainforest. A few years later, Wade got the green light for a limited series based on Jungle Hooks," which resulted in a trip to India and the capture of a 60-pound goonch that eventually caught the eye of Animal Planet. The rest is history.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">A cameraman refused to film one of Wade's injuries</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="10" data-post-id="72292">
+                                             <picture id="p71a78ff8c2675a7e19057851ccb81842">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/a-cameraman-refused-to-film-wades-injury-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/a-cameraman-refused-to-film-wades-injury-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/a-cameraman-refused-to-film-wades-injury-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="10" data-slide-title="The Untold Truth Of River Monsters: A cameraman refused to film one of Wade's injuries" width="780" height="439" alt="Jeremy Wade showing a cut">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">"River Monsters" is known for its dramatic reenactments of supposedly terrifying and sometimes deadly encounters that people have had with monstrous freshwater giants. Part of the drama of the show is the knowledge that Jeremy Wade and his crew could be seriously injured or even killed in pursuit of their prey, which is why Wade was so surprised during the first season when a cameraman refused to shoot an injury he sustained during production.</p>
+<p dir="ltr">In an interview with <a href="https://tvandcity.com/2017/04/23/interview-jeremy-wade-river-monsters/" target="_blank">TV and City</a>, Wade said one of his "most dramatic injuries" was never recorded because the cameraman took it so seriously. "We've got real blood, we're making a program about bull sharks," he recalled, "and he was just saying 'no you're hysterical, we've got to get you to a hospital.'" In fairness to the cameraman, Wade's injury was the result of getting his hand "shut in the door of a vehicle," so it doesn't exactly sound fishing-related. Nevertheless, the show later utilized a five-to-seven second "preroll" function on the cameras, which gave them the ability to recapture those moments before the record button was even pressed. Wade may be an expert fisherman, but he also learned a thing or two about making compelling TV along the way.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">A lot of the show's viewers were female</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="11" data-post-id="72292">
+                                             <picture id="p14bd3ccb1a958d14c0a672b4072a909f">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/a-lot-of-the-shows-viewers-were-female-1651077619.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/a-lot-of-the-shows-viewers-were-female-1651077619.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/a-lot-of-the-shows-viewers-were-female-1651077619.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="11" data-slide-title="The Untold Truth Of River Monsters: A lot of the show's viewers were female" width="780" height="438" alt="Jeremy Wade posing with fans">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Suhaimi Abdullah/Getty Images</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">It's easy to assume that the demographic watching fishing shows like "River Monsters" would be primarily male. However, that's not as accurate as you might think when it comes to the Animal Planet show. According to a <a href="https://chicago.suntimes.com/news/2012/4/3/18533040/animal-planet-host-jeremy-wade-takes-viewers-to-places-they-ve-never-seen" target="_blank">Chicago Sun-Times</a> report from 2012, the series' audience was 40 percent female.</p>
+<p dir="ltr">Though that number might sound surprising at first, it shouldn't necessarily be a shock. More modern data shows that close to 40 percent of fishing participants in the U.S. are women (per <a href="https://www.statista.com/statistics/315832/gender-distribution-of-fishing-participants-us/" target="_blank">Statista</a>). Wade also did a fabulous job as the host of "River Monsters," creating a tone that was widely accessible to anyone interested in freshwater biomes. Wade himself has expressed a humble perspective on the show's broad appeal, telling <a href="https://realscreen.com/2017/04/21/jeremy-wade-hangs-up-river-monsters-fishing-rod/" target="_blank">Real Screen</a>, "We decided early on to go at this as a bit of a detective story. We're also showcasing different areas of the world and different people, which audiences are interested in."</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">Wade and the crew were trained to deal with medical emergencies</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="13" data-post-id="72292">
+                                             <picture id="p16b06c51555b7579e712efb3b15d5045">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/wade-and-the-crew-are-trained-to-deal-with-medical-emergencies-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/wade-and-the-crew-are-trained-to-deal-with-medical-emergencies-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/wade-and-the-crew-are-trained-to-deal-with-medical-emergencies-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="13" data-slide-title="The Untold Truth Of River Monsters: Wade and the crew were trained to deal with medical emergencies" width="780" height="438" alt="Jeremy Wade bitten by fish">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">Given that many "River Monsters" locations are remote jungle regions, the danger posed by injuries is heightened beyond your average reality show. In a <a href="https://www.reddit.com/r/IAmA/comments/226tyj/i_am_the_real_jeremy_wade_host_of_river_monsters/" target="_blank">Reddit AMA</a>, Jeremy Wade explained that because episodes were often filmed in places with "no emergency services," both he and the crew were trained for hazardous situations. "We have very small trauma packs which will include dressings, nasopharyngeal tubes for airways, EpiPens, those kind of things, just basic simple stuff," he wrote. "We also have a satellite phone so we can get advice and inform our production company if anything happens, if we have reception."</p>
+<p dir="ltr">That all makes sense, given the circumstances, and the training has certainly come in handy time and again. But in the same post, Wade then tacked on this little tidbit of info: "And the production company always asks two questions on the rare occasions we call them if there is an emergency. Question one: is everybody okay? Question two, immediately afterwards: did you film it?"</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">The show rescued a castaway</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="14" data-post-id="72292">
+                                             <picture id="pd3a65e20cd5f2714659a932f9d3ddb99">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-show-rescued-a-castaway-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-show-rescued-a-castaway-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-show-rescued-a-castaway-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="14" data-slide-title="The Untold Truth Of River Monsters: The show rescued a castaway" width="780" height="438" alt="River Monsters finds a castaway">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">Over its eight-year run, "River Monsters" sought out scores of creatures -– fish, crocodiles, giant salamanders, turtles, dolphins, octopi, squid, snakes, and more. One of the show's unerring constants was the fact that Wade inevitably caught what he was after, or at least a comparably bizarre fluvial beast. But of all Wade's finds, intentional or not, the single most surprising –- undoubtedly to cast, crew, and viewers alike -– was a <a href="https://www.youtube.com/watch?v=R1eJODYE42g" target="_blank">marooned sailor</a> on an unpopulated island.</p>
+<p dir="ltr">While filming the Season 8 episode "Death Down Under" in Northern Territory, Australia, Wade and crew spotted something unusual, even for them: A typical, blue and white cooler sitting on an otherwise uninhabited island. The team spotted the colorful cooler and it led them to spot its owner — a sunburned, dehydrated fisherman who, upon spotting the team, yelled out "water" again and again (per <a href="https://abcnews.go.com/Entertainment/river-monsters-crew-saves-real-life-castaway-remote/story?id=38527471" target="_blank">ABC News</a>).</p>
+<p>The man, later identified as local fisherman Termini, told the crew that he had lost track of his boat while hunting for oysters on the small island, known as Barranyi North Island. As Wade notes in the episode, the area's average daily temperature hovers around 100 degrees Fahrenheit, and the extreme heat had taken a toll on Termini. Though he had already "said his last prayer," the "River Monsters" crew were able to rehydrate him, rescue him, and bring him back to civilization for medical treatment (via <a href="https://www.huffpost.com/entry/tv-crew-finds-castaway-river-monsters_n_5716260ce4b0018f9cbb02e9" target="_blank">HuffPost</a>).</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">One fish made Wade lose it</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="15" data-post-id="72292">
+                                             <picture id="p5a9aff1f8dbef2b0028def2039b4ea9d">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/one-fish-made-wade-lose-it-1651003081.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/one-fish-made-wade-lose-it-1651003081.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/one-fish-made-wade-lose-it-1651003081.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="15" data-slide-title="The Untold Truth Of River Monsters: One fish made Wade lose it" width="780" height="439" alt="Jeremy Wade holding a muskellunge">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">Despite the multitude of impressive catches that Jeremy Wade has made over his decades-long career as a biologist and researcher, some tricky critters continued to vex him. The Season 7 episode "Canadian Horror" follows Wade as he meets (or more accurately, repeatedly fails to meet) one of the most elusive critters of them all: <a href="https://www.youtube.com/watch?v=SFuEaIFFwrU" target="_blank">The muskellunge</a>.</p>
+<p dir="ltr">The episode, like many before it, begins with Wade and company investigating a local legend, this time in Ontario, Canada. The story tells of a giant monster menacing a series of freshwater bodies. Searching for a real-world explanation for the alleged monster sightings, Wade begins ruling out suspects, such as sturgeons, sharks, and snakes. Finally, he lands on the most likely culprit — the large, predatory pike known as the muskellunge.</p>
+<p>It's also known as "the fish of 10,000 casts" –- referencing how many attempts it takes to haul in the elusive animal –- and unfortunately for Wade, the muskellunge proved that moniker insufficient. Wade made the requisite 10,000 casts using a range of lures, and still he had no muskie. Nearing 13,000 casts, Wade began to lose it, reaching "a level of frustration ... almost unlike anything I've experienced before." He began casting in search of any fish that would bite, hoping to "feel anything at all," on the end of his line, and as he passed 13,000 casts, he finally hooked <a href="https://www.youtube.com/watch?v=SFuEaIFFwrU" target="_blank">one miraculous muskie</a>.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">River Monsters was often challenging to make</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="16" data-post-id="72292">
+                                             <picture id="pb6ad2409b6dd3f48c964905bdf7f9534">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-show-is-surprisingly-hard-to-make-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-show-is-surprisingly-hard-to-make-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/the-show-is-surprisingly-hard-to-make-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="16" data-slide-title="The Untold Truth Of River Monsters: River Monsters was often challenging to make" width="780" height="438" alt="Jeremy Wade next to fish">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">You'd be forgiven for assuming that the "River Monsters" production team had it easy. An average episode consists almost entirely of Wade spending countless hours angling and baiting, so it would be fair to think that the crew would mainly be in charge of travel, food, shelter, and occasional filming. But many episodes of "Rivers Monsters" took a heavy toll on the crew's time, money, sanity, and even safety.</p>
+<p>As <a href="https://youtu.be/SFuEaIFFwrU?t=17" target="_blank">Wade has discussed</a> before, each episode of the show took around three weeks to shoot. That length may already surprise, but what's perhaps more surprising is that, as Wade has said, "Only about three or four days, normally, are spent fishing." That leaves around 18 days during which the crew would focus on non-fishing hurdles, and there were hurdles aplenty. For example, director Kelly Neaves has detailed a few such issues that the crew faced while searching for Humboldt squid in Peru (via <a href="https://www.youtube.com/watch?v=GUZZyvdBOK0" target="_blank">Discovery UK</a>). The challenges, some of which were typical for "River Monsters" shoots, included a boat too small for the crew, a language barrier between crew and guides, ocean sickness, lack of safety precautions, and even the threat of pirates -– for which the team swung a naval escort.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">Production did some damage</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="17" data-post-id="72292">
+                                             <picture id="pb1782ccd066757368f9916ae41acf537">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/production-did-some-damage-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/production-did-some-damage-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/production-did-some-damage-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="17" data-slide-title="The Untold Truth Of River Monsters: Production did some damage" width="780" height="438" alt="Lamprey biting Jeremy Wade">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">As you might expect from a show with so many obstacles to tackle in its production, the cast and crew of "River Monsters" didn't walk away unscathed. The number of injuries, illnesses, and general damages inflicted upon the "River Monsters" team are as numerous as they are cringe-inducing.</p>
+<p>In an interview with <a href="https://ew.com/tv/2017/04/21/river-monsters-jeremy-wades-brushes-with-death/" target="_blank">Entertainment Weekly</a>, Jeremy Wade listed a few of his closest brushes with death during the making of "River Monsters" -– only some of which actually came from monsters. Though he avoided almost certain death while handling an electric eel, even going so far as to bring an emergency defibrillator if his heart should stop, Wade was not so lucky with either the arapaima or catfish. The latter stabbed him in the hand and injected him with its "toxic slime" and the former smacked him in the chest so hard that Wade feared he had serious cardiac damage. Wade and company's injuries were so numerous that Animal Planet began cataloging the more <a href="https://www.youtube.com/watch?v=4yLzGTb6QSM" target="_blank">notable examples</a> in a multi-part series on YouTube, with one in particular –- a torn tendon resulting from a <a href="https://youtu.be/bI0NSCF8H9E?t=265" target="_blank">battle with a stingray</a> –- receiving its own installment.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">Jeremy Wade is trophy-less</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="18" data-post-id="72292">
+                                             <picture id="p2039a6575429a3ab28f264ebff941e70">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/jeremy-wade-is-trophy-less-1651003081.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/jeremy-wade-is-trophy-less-1651003081.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/jeremy-wade-is-trophy-less-1651003081.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="18" data-slide-title="The Untold Truth Of River Monsters: Jeremy Wade is trophy-less" width="780" height="438" alt="Jeremy Wade holding fishing rod">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Suhaimi Abdullah/Getty Images</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr">Despite the numerous monsters that have taken a bite out of Jeremy Wade –- not to mention tail-whipping, head-butting, body-slamming, stabbing, and shocking him -– he's not a vengeful man. Wade has always conducted himself as a biologist and researcher first, and an angler only as a secondary necessity. To that end, Wade doesn't keep trophies from his catches, even the incredible ones, and he avoids eating fish for the most part.</p>
+<p>During an <a href="https://www.reddit.com/r/IAmA/comments/4dnhjj/hi_im_jeremy_wade_host_of_river_monsters_ama/d1smami/?utm_source=share&amp;utm_medium=web2x&amp;context=3" target="_blank">AMA on Reddit</a>, Wade revealed his sustainability-based policy when it comes to piscivory, saying that the only fish he eats are "small fish that I catch if there's plenty of them in the river." He explained the choice further to <a href="https://pagesix.com/2016/04/12/river-monsters-host-jeremy-wade-rarely-eats-fish/" target="_blank">Page Six</a>, saying, "It's sort of out of conscience ... I like to eat sustainably produced fish where possible." For the same reason, Wade isn't interested in keeping fish as trophies. His angling expeditions are meant to educate and <a href="https://www.youtube.com/watch?v=hja6lJpvCN4" target="_blank">assess local ecosystems</a>, which is why almost every "River Monsters" catch can be seen on camera swimming away after its brief run-in with Wade. To supplement his on-site adventures with at-home education, Wade also frequently lectures about <a href="https://www.coxsciencecenter.org/press/jeremy-wade-host-animal-planet%E2%80%99s-%E2%80%9Criver-monsters%E2%80%9D-discuss-conservation-during-annual-gala" target="_blank">conservation</a> at universities and scientific conferences, as well as contributing to various <a href="https://www.synchronicityearth.org/conserving-freshwater-fish-an-interview-with-jeremy-wade/" target="_blank">ecology journals</a> and newsletters.</p>
+
+            </div>
+            </div>
+            <div class="news-article">
+                
+                <h2 class="">One river monster beats them all</h2>
+                                <div class="slide-key image-holder gallery-image-holder credit-image-wrap " data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters" data-slide-num="19" data-post-id="72292">
+                                             <picture id="pfb0af284c3f590e701b7dc735e5c1bb6">
+                                                    <source media="(min-width: 429px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/one-monster-beats-them-all-1650920491.webp" type="image/webp">
+                            <source media="(max-width: 428px)" srcset="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/one-monster-beats-them-all-1650920491.sm.webp" type="image/webp">
+                        <img class="gallery-image " src="https://www.looper.com/img/gallery/the-untold-truth-of-river-monsters/one-monster-beats-them-all-1650920491.jpg" loading="lazy" data-slide-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-id="72292" data-slide-num="19" data-slide-title="The Untold Truth Of River Monsters: One river monster beats them all" width="780" height="438" alt="Sixgill shark swimming underwater">
+                    </source></source></picture>
+                    <span class="gallery-image-credit">Animal Planet</span>
+                    </div>
+				            <div class="columns-holder ">
+                <p></p>
+<p dir="ltr"><a href="https://www.grunge.com/597044/is-this-the-largest-creature-ever-to-walk-on-earth/" target="_blank">When it comes to animals, the term "biggest"</a> is practically useless. Depending on how an animal is positioned and its rotation, it could be the tallest among a group or the shortest. For that matter, how do you define the difference between tallest and longest? <a href="https://www.pnas.org/doi/10.1073/pnas.1711842115" target="_blank">Some biologists are more interested in mass</a>, making "heaviest" one of the best objective metrics for judging an animal's size. But no matter which definition you use, and despite the hundreds of mammoth catches in Jeremy Wade's long career, one creature beats them all in nearly every statistic.</p>
+<p>In the "River Monsters" Season 9 episode "Killers From The Abyss," Wade hooked an extremely rare <a href="https://www.youtube.com/watch?v=WxWrDEq44Qc" target="_blank">bluntnose sixgill shark</a> –- one of the largest shark species in the world. The specimen Wade landed was estimated to be around 13 feet long and 1,100 pounds. The shark was one in a series of large catches during the episode but dwarfed all the others. It required specialized, strengthened gear to bring in, and even then it was a <a href="https://www.youtube.com/watch?v=23h-n2Z-DPw" target="_blank">tremendous struggle</a>. The sixgill was so long and so massive that it even beat <a href="https://www.youtube.com/watch?v=8qVoJnUwWBU" target="_blank">Wade's previous biggest haul</a>, which he described as "one of the largest bull sharks ever caught."</p>
+
+            </div>
+            </div>
+    
+</article>                        
+            <div class="under-art" data-post-url="https://www.looper.com/72292/untold-truth-river-monsters/" data-post-title="The Untold Truth Of River Monsters"> 
+                			<div class="divider-heading-container divider-heading recommended-heading">
+				<span>Recommended</span>
+			</div>
+                <input type="hidden" class="next-article-url" value="https://www.looper.com/64268/untold-truth-turtleman/"/>
+                                <div class="zergnet-widget" id="zergnet-widget-32069" data-lazyload="2000">
+                    
+                </div>
+        	</div>
+                            <script language="javascript" type="text/javascript">
+                    setTimeout(function() {
+                        var n = document.getElementById("#zergnet-widget-32069");
+                        var h = false;
+                        if ( n ) {
+                            h = n.innerHTML;
+                        }
+                        if ( h ) {
+                            return false;
+                        }
+                        var zergnet = document.createElement('script');
+                        zergnet.type = 'text/javascript'; zergnet.async = true;
+                        zergnet.src = '//www.zergnet.com/zerg.js?v=1&id=32069';
+                        var znscr = document.getElementsByTagName('script')[0];
+                        znscr.parentNode.insertBefore(zergnet, znscr);
+                    }, 3500);
+                </script>
+                           <div id="div-ad-1x1a" class="google-ad-placeholder clear placeholder placeholder-1-1" data-ad-height="any" data-ad-width="any" data-ad-pos="1x1"></div>
+
+        </div>
+    </div>
+    <div id="floatingAd">
+            </div>
+    </main>
+
+</div>
+</div>
+
+            
+                        <script async src="https://www.googletagmanager.com/gtag/js?id=G-H2Y8FT0M9C"></script>
+    <script>
+        window.LooperConfig = window.LooperConfig || {};
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);} 
+        gtag('js', new Date());
+        window.LooperConfig.ga4tag = "G-H2Y8FT0M9C";
+        window.LooperConfig.ga4data = {"author":"Carmen Ribecca","category":false,"content_type":"","mod_date":"2022-04-27","layout":"Infinite","post_id":72292,"pub_date":"2017-06-27","day":"Tuesday","dayhour":"Tuesday-10AM","pubhour":"10AM","num_slides":19,"num_words":3600,"pitcher":"Unknown","intent":"Legacy","ideation":"Legacy","importantTopic":"Legacy"};
+        window.LooperConfig.categories = [];
+        window.LooperReady = function(){
+            if ( typeof( window.LooperReadyInside ) !== 'undefined' ) {
+                window.LooperReadyInside();
+            }
+            LooperConfig.params = false;
+            try {
+                LooperConfig.params = (new URL(document.location)).searchParams;
+            } catch( e ) {
+                //do nothing
+            }
+            
+            var widgets = document.querySelectorAll(".zergnet-widget");
+            var hasWidget = false;
+            for ( i = 0; i < widgets.length; i++ ) {
+                if ( !hasWidget && LoopGalObj.isVisible(widgets[i]) ) {
+                    hasWidget = true;
+                }
+            }
+            if (!hasWidget) {
+                LooperConfig['ga4data']["ad_block"] = true;
+            } else {
+                LooperConfig['ga4data']["ad_block"] = false;
+            }
+
+            var validZSource = {"newsletter":"newsletter","flipboard":"flipboard","smartnews":"smartnews","smartnews_sponsored":"smartnews_sponsored","msnsyndicated":"msnsyndicated","newsbreakapp":"newsbreakapp","topbuzz":"topbuzz","zinf_abtest":"zinf_abtest","nexthighlights":"nexthighlights","fb":"fb","fb_ios":"fb_ios","fb_android":"fb_android","gemini":"gemini","facebook_organic":"facebook_organic","gdiscover_sponsored":"gdiscover_sponsored","googlenewsapp":"googlenewsapp","snapchat":"snapchat","dt_app":"dt_app","youtube":"youtube"};
+
+            if (window.location.href.indexOf("zsource") !== -1) {
+                var vars = {};
+                var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                    vars[key] = value.toLowerCase();
+                });
+                if (typeof( vars['zsource'] !== "undefined") && typeof( validZSource[vars['zsource']] ) !== "undefined") {
+                    LooperConfig['zsource'] = validZSource[vars['zsource']];
+                    document.cookie = "zsource=" + LooperConfig['zsource'] + "; path=/; max-age=600";
+                }
+            } else if (document.cookie.indexOf("zsource") !== -1) {
+                var cookieval = document.cookie;
+                var zsource = "";
+                if (cookieval) {
+                    var arr = cookieval.split(";");
+                    if (arr.length) {
+                        for (var i = 0; i < arr.length; i++) {
+                            var keyval = arr[i].split("=");
+                            if (keyval.length && keyval[0].indexOf("zsource") !== -1) {
+                                zsource = keyval[1].trim();
+                            }
+                        }
+                    }
+                }
+                if (typeof( validZSource[zsource] !== "undefined" )) {
+                    LooperConfig['zsource'] = validZSource[zsource];
+                }
+            }
+
+            if (typeof( LooperConfig['zsource'] ) !== "undefined") {
+                LooperConfig['ga4data']["zsource"] = LooperConfig['zsource'];
+            }
+
+            // ga4 first view setup
+            LooperConfig['ga4data']["first_view"] = false;
+            var ga4CookieName = '_ga_H2Y8FT0M9C' ;
+
+            let decodedCookie = decodeURIComponent(document.cookie);
+            let decodedCookieArray = decodedCookie.split(';').map((d) => d.trim()).filter((d) => d.substring(0, ga4CookieName.length) === ga4CookieName);
+            var isGa4CookiePresent =  decodedCookieArray.length > 0;
+            if(!isGa4CookiePresent) {
+                LooperConfig['ga4data']["first_view"] = true;
+            }
+            LooperConfig['ga4data']['send_page_view'] = false;
+            gtag("config", LooperConfig.ga4tag, LooperConfig.ga4data);
+            gtag("event", "page_view");
+        };
+    </script>
+                <script type="text/javascript" src="/wp-content/themes/unified/js/loopgal.min.js?v=1741804034"></script>
+        <script>
+        (function(){
+                    var config = {};
+        
+            window.LoopGalObj = new LoopGal( config );
+                    window.Looper = new LoopEs();
+        if ( typeof( LooperReady ) !== "undefined" ){
+            LooperReady();
+        }
+        })();
+        </script>
+        
+        
+        <script>
+    (function(){
+        !function(){"use strict";function e(e){var t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1],c=document.createElement("script");c.src=e,t?c.type="module":(c.async=!0,c.type="text/javascript",c.setAttribute("nomodule",""));var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(c,n)}!function(t,c){!function(t,c,n){var a,o,r;n.accountId=c,null!==(a=t.marfeel)&&void 0!==a||(t.marfeel={}),null!==(o=(r=t.marfeel).cmd)&&void 0!==o||(r.cmd=[]),t.marfeel.config=n;var i="https://sdk.mrf.io/statics";e("".concat(i,"/marfeel-sdk.js?id=").concat(c),!0),e("".concat(i,"/marfeel-sdk.es5.js?id=").concat(c),!1)}(t,c,arguments.length>2&&void 0!==arguments[2]?arguments[2]:{})}(window,3544,{} /*config*/)}();
+     })();
+</script>
+            <script>
+    window.LooperConfig = window.LooperConfig || {};
+    window.LooperConfig.clip = {"readmore":{"text":"Read More: "},"followus":{"text":"Follow Us: ","enabled":0},"visitus":{"text":"Visit Us At: ","enabled":0}};
+</script>
+</body>
+</html>
