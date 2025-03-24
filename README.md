@@ -2,8 +2,20 @@
 
 ![Wall CLI](testimages/webgl_02.gif)
 
-
 Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautiful wallpapers from various sources like Pexels, Unsplash, NASA APOD, and Reddit. You can also generate custom wallpapers using Stable Diffusion. The tool is designed to be user-friendly and highly customizable.
+
+## 📑 Table of Contents
+
+- [Samples of fetched and Generated Wallpapers](#-samples-of-fetched-and-generated-wallpapers)
+- [Folder Structure](#-folder-structure)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+    - [Terminal User Interface (For Normal users non techies)](#-terminal-user-interface-for-normal-users-non-techies)
+    - [Command Line Interface: (For techies)](#-command-line-interface-for-techies)
+- [Example Use Case](#-example-use-case)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## ✨✅Samples of fetched and Generated Wallpapers:
 
@@ -48,7 +60,6 @@ wallpaper-cli-tool/
 └── README.md                 # Project documentation
 ```
 
-
 ## 🪶Features
 
 **✨ - Fetch wallpapers from multiple sources: Pexels, Unsplash, NASA APOD, and Reddit.**
@@ -65,25 +76,23 @@ wallpaper-cli-tool/
 
 **✨ - Set custom resolution for wallpapers , according to your adaptive rate of windows for ex: 124×124 etc.**
 
-
-
 ## 💻 Installation
 
 1. Clone the repository:
 
-    ```sh
-    git clone https://github.com/Blacksujit/WallCLI.git
-    ```
+        ```sh
+        git clone https://github.com/Blacksujit/WallCLI.git
+        ```
 
-    ```sh
-    cd wallpaper-cli-tool
-    ```
+        ```sh
+        cd wallpaper-cli-tool
+        ```
 
 2. Install the required dependencies:
 
-    ```sh
-    pip install -r requirements.txt
-    ```
+        ```sh
+        pip install -r requirements.txt
+        ```
 
 ## 🪴 Usage
 
@@ -99,7 +108,6 @@ python src/tui.py
 
 ***Use the TUI to select predefined queries, enter custom queries, and fetch wallpapers.***
 
-
 ### 🧑‍💻👩‍💻 Command Line Interface: (For techies)
 
 **🫴 navigate to:**
@@ -112,7 +120,6 @@ cd src
 
 ```sh
 python main.py --set-wallpaper "hindu Spirituality" --orientation "landscape" --resolution "1920x1080" --monitor 0
-
 ```
 
 **🫴 Set Wallpaper from Various Sources like Reddit , unsplash , Nasa apod:**
@@ -136,23 +143,20 @@ python main.py --set-wallpaper "2022-03-12" --source nasa
 **🫴 Set Previous used wallpaper:**
 
 ```sh
-
 python main.py --previous 2 --monitor 0
-
 ```
 
 **🫴 Generate a custom wallpaper:**
 
 ```sh
 python main.py --source custom --query "a beautiful sunset" --resolution "1024x1024"
-
 ```
+
 **🫴 Retrive the wallpaper History:**
 
 ```sh
 python main.py --list-history
 ```
-
 
 ## 🌱 Example Use Case
 
