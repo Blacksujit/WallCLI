@@ -105,6 +105,16 @@ pip install -r requirements.txt
 pip install wallpaper-cli-tool 
 ```
 
+**For Package Installation Steps**:
+
+just u have to put ->>**`wallpaper-cli-tool` instead of `python main.py`  in commands**
+
+``for example:``
+
+```
+wallpaper-cli-tool --set-wallpaper "A beautiful sunset" --source reddit
+```
+
 ## 🪴 Usage
 
 ### 🧑‍🔧🦾 Terminal User Interface (For Normal users non techies):
