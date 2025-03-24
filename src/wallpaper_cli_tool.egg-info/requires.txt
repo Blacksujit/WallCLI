@@ -1,0 +1,10 @@
+requests
+textual
+Pillow
+python-dotenv
+pexels-api
+unsplash-api
+nasa-apod-api
+reddit-api
+diffusers
+torch

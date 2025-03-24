@@ -1,0 +1,12 @@
+.env
+MANIFEST.in
+README.md
+setup.py
+src/tui_style.css
+src/wallpaper_history.txt
+src/wallpaper_cli_tool.egg-info/PKG-INFO
+src/wallpaper_cli_tool.egg-info/SOURCES.txt
+src/wallpaper_cli_tool.egg-info/dependency_links.txt
+src/wallpaper_cli_tool.egg-info/entry_points.txt
+src/wallpaper_cli_tool.egg-info/requires.txt
+src/wallpaper_cli_tool.egg-info/top_level.txt
