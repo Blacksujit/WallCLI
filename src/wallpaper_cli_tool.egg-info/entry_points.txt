@@ -1,0 +1,2 @@
+[console_scripts]
+wallpaper-cli = main:main
