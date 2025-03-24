@@ -55,7 +55,7 @@ wallpaper-cli-tool/
 
 **✨ - Fetch Previous and Next Wallpapers**
 
-**✨ - Set custom resolution for wallpapes , according to your adaptive rate of windows for ex: 124×124 etc.**
+**✨ - Set custom resolution for wallpapers , according to your adaptive rate of windows for ex: 124×124 etc.**
 
 
 
