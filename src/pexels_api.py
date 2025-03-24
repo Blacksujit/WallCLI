@@ -11,7 +11,7 @@ import os
 load_dotenv()
 # Hardcoded NASA APOD API key (replace with your actual key)
 PEXELS_API_KEY = os.getenv('PEXELS_API_KEY')
-
+ 
 
 def sanitize_query(query):
     """Sanitize the query to create a valid filename (e.g., 'sunset beach' -> 'sunset_beach')."""
