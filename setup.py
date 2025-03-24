@@ -20,6 +20,7 @@ setup(
         "requests",
         "textual",
         "Pillow",
+        "Babel==2.12.1",
         "python-dotenv",
         "pexels-api",
         "unsplash-api",
