@@ -81,13 +81,13 @@ wallpaper-cli-tool/
 
 1. Clone the repository:
 
-        ```
-        git clone https://github.com/Blacksujit/WallCLI.git
-        ```
+```
+git clone https://github.com/Blacksujit/WallCLI.git
+```
 
-        ```
-        cd wallpaper-cli-tool
-        ```
+```
+cd wallpaper-cli-tool
+```
 
 2. Install the required dependencies:
 
