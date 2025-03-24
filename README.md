@@ -77,6 +77,17 @@ wallpaper-cli-tool/
 
 ## 🪴 Usage
 
+### 🧑‍🔧🦾 Terminal User Interface (For Normal users non techies)
+
+##### **Run the TUI:**
+
+```sh
+python src/tui.py
+```
+
+***Use the TUI to select predefined queries, enter custom queries, and fetch wallpapers.***
+
+
 ### 🧑‍💻👩‍💻 Command Line Interface: (For techies)
 
 **🫴 navigate to:**
@@ -101,6 +112,8 @@ python main.py --set-wallpaper "A beautiful sunset" --source reddit
 ```sh
 python main.py --set-wallpaper "A beautiful sunset" --source unsplash
 ```
+
+##### IMP Note: 
 
 **just in case of setting the wallpaers from nasa apod u have to specify the date instead of the query so it works on the geolocation engine , so it works as random sattelite wallpaper API**
 
@@ -127,16 +140,6 @@ python main.py --source custom --query "a beautiful sunset" --resolution "1024x1
 ```sh
 python main.py --list-history
 ```
-
-### 🧑‍🔧🦾 Terminal User Interface (For Normal users non techies)
-
-##### **Run the TUI:**
-
-```sh
-python src/tui.py
-```
-
-***Use the TUI to select predefined queries, enter custom queries, and fetch wallpapers.***
 
 
 ## 🌱 Example Use Case
