@@ -82,17 +82,22 @@ wallpaper-cli-tool/
 1. Clone the repository:
 
         ```sh
+
         git clone https://github.com/Blacksujit/WallCLI.git
+
         ```
 
         ```sh
+        
         cd wallpaper-cli-tool
         ```
 
 2. Install the required dependencies:
 
         ```sh
+        
         pip install -r requirements.txt
+
         ```
 
 ## 🪴 Usage
