@@ -36,7 +36,7 @@ wallpaper-cli-tool/
 ├── requirements.txt          # Project dependencies
 ├── wallpaper_history.txt     # History of wallpapers
 └── test images/               # Test images used in the project for referance
-└── Wallpapers/                # Project Wallpapers for reference ,
+└── Wallpapers/                # Project Wallpapers for reference
 └── README.md                 # Project documentation
 ```
 
