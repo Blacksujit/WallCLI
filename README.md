@@ -107,7 +107,7 @@ pip install wallpaper-cli-tool
 
 **For Package Installation Steps**:
 
-[PYPI Project Link](https://pypi.org/project/wallpaper-cli-tool/)
+[PYPI Wall-CLI Project Link](https://pypi.org/project/wallpaper-cli-tool/)
 
 just u have to put ->>**`wallpaper-cli-tool` instead of `python main.py`  in commands**
 
