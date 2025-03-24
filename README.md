@@ -102,8 +102,10 @@ python main.py --set-wallpaper "A beautiful sunset" --source reddit
 python main.py --set-wallpaper "A beautiful sunset" --source unsplash
 ```
 
+**just in case of setting the wallpaers from nasa apod u have to specify the date instead of the query so it works on the geolocation engine , so it works as random sattelite wallpaper API**
+
 ```sh
-python main.py --set-wallpaper "A beautiful sunset" --source nasa
+python main.py --set-wallpaper "2022-03-12" --source nasa
 ```
 
 **🫴 Set Previous used wallpaper:**
