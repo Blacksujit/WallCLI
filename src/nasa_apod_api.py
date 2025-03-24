@@ -2,13 +2,13 @@ import requests
 import os
 import re
 from dotenv import load_dotenv
-import os
-
+from datetime import datetime
 
 # Load environment variables from .env file
 load_dotenv()
 # Hardcoded NASA APOD API key (replace with your actual key)
-NASA_API_KEY = os.getenv('NASA_API_KEY')
+# NASA_API_KEY = os.getenv('NASA_API_KEY')
+NASA_API_KEY = 'e3DlVogiTghmen8XZdtU3FZcmEyJ99Z1rw0trlkD'
 
 def sanitize_query(query):
     """Sanitize the query to create a valid filename (e.g., 'sunset beach' -> 'sunset_beach')."""
@@ -33,14 +33,21 @@ def get_next_filename(query, directory="wallpapers"):
     new_num = max_num + 1
     return f"{directory}/{sanitized}_{new_num}.jpg"
 
-def fetch_image(query):
+def fetch_image(query=None):
     """
     Fetches an image from NASA APOD and saves it with a query-based filename.
     Returns the file path of the downloaded image.
     """
+    # Use the current date if no query is provided or if the query is not a valid date
+    try:
+        date = datetime.strptime(query, '%Y-%m-%d').strftime('%Y-%m-%d') if query else datetime.now().strftime('%Y-%m-%d')
+    except ValueError:
+        print("Invalid date format. Using the current date instead.")
+        date = datetime.now().strftime('%Y-%m-%d')
+    
     params = {
         'api_key': NASA_API_KEY,
-        'date': query
+        'date': date
     }
     try:
         response = requests.get('https://api.nasa.gov/planetary/apod', params=params)
@@ -53,7 +60,7 @@ def fetch_image(query):
             image_response.raise_for_status()
             
             # Generate a meaningful filename
-            filename = get_next_filename(query)
+            filename = get_next_filename(date)
             with open(filename, 'wb') as f:
                 f.write(image_response.content)
             

@@ -2,6 +2,7 @@ import argparse
 import random
 import sys
 import os
+from datetime import datetime  # Correct import for datetime
 
 # Ensure the current directory is in the module search path
 sys.path.append(os.path.dirname(__file__))
@@ -25,7 +26,13 @@ def fetch_and_set(query, source="pexels", orientation="landscape", resolution=No
     elif source == "unsplash":
         image_path = fetch_image_unsplash(query, orientation, resolution)
     elif source == "nasa":
-        image_path = fetch_image_nasa(query)
+        # Handle NASA APOD API which expects a date in YYYY-MM-DD format
+        try:
+            datetime.strptime(query, '%Y-%m-%d')
+            image_path = fetch_image_nasa(query)
+        except ValueError:
+            print("Invalid date format for NASA APOD. Using the current date instead.")
+            image_path = fetch_image_nasa()
     elif source == "reddit":
         image_path = fetch_image_reddit(query)
     else:
