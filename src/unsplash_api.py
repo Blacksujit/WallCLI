@@ -11,8 +11,7 @@ import os
 # Load environment variables from .env file
 load_dotenv()
 # Hardcoded NASA APOD API key (replace with your actual key)
-# UNSPLASH_API_KEY = os.getenv('UNSPLASH_API_KEY')
-UNSPLASH_API_KEY = "MvoLPu92DRz6Q2kf1bDsPF2Y7MgoXO5gACIH6PF0oRM"
+UNSPLASH_API_KEY = os.getenv('UNSPLASH_API_KEY')
 
  
 def sanitize_query(query):
