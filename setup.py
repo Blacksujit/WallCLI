@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="wallpaper-cli-tool",
-    version="1.2",
+    version="1.2.1",  # Incremented version number
     description="A CLI tool to fetch and set beautiful wallpapers from various sources.",
     long_description="""
     # Wallpaper CLI Tool
@@ -66,5 +66,3 @@ setup(
     ],
     python_requires=">=3.6",
 )
-
-# Added the setup.py for production and pypi project
