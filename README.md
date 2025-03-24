@@ -79,6 +79,8 @@ wallpaper-cli-tool/
 
 ## 💻 Installation
 
+### From Source
+
 1. Clone the repository:
 
 ```
@@ -93,6 +95,14 @@ cd wallpaper-cli-tool
 
 ```
 pip install -r requirements.txt
+```
+
+### From PyPI:
+
+**You can install the package directly from PyPI:**
+
+```
+pip install wallpaper-cli-tool==1.2.2 
 ```
 
 ## 🪴 Usage
