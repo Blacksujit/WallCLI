@@ -66,7 +66,7 @@ wallpaper-cli-tool/
     ```sh
     git clone https://github.com/Blacksujit/WallCLI.git
     ```
-    
+
     ```sh
     cd wallpaper-cli-tool
     ```
@@ -79,7 +79,9 @@ wallpaper-cli-tool/
 
 ## 🪴 Usage
 
-### 🧑‍🔧🦾 Terminal User Interface (For Normal users non techies)
+### 🧑‍🔧🦾 Terminal User Interface (For Normal users non techies):
+
+![TUI Interface](image-1.png)
 
 ##### **Run the TUI:**
 
