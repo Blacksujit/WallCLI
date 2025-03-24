@@ -65,7 +65,9 @@ wallpaper-cli-tool/
 
     ```sh
     git clone https://github.com/Blacksujit/WallCLI.git
+    ```
     
+    ```sh
     cd wallpaper-cli-tool
     ```
 
