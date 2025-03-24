@@ -102,7 +102,7 @@ pip install -r requirements.txt
 **You can install the package directly from PyPI:**
 
 ```
-pip install wallpaper-cli-tool==1.2.2 
+pip install wallpaper-cli-tool 
 ```
 
 ## 🪴 Usage
