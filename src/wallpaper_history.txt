@@ -168,3 +168,5 @@ D:\wallpaper-cli-tool\src\wallpapers\sunset_beach_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\sunset_beach_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\sunset_beach_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\sunset_beach_1.jpg
+D:\wallpaper-cli-tool\src\wallpapers\mountains_15.jpg
+D:\wallpaper-cli-tool\src\wallpapers\mountains_16.jpg
