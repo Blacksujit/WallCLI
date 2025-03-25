@@ -7,7 +7,8 @@ from datetime import datetime
 # Load environment variables from .env file
 load_dotenv()
 # Hardcoded NASA APOD API key (replace with your actual key)
-NASA_API_KEY = os.getenv('NASA_API_KEY')
+# NASA_API_KEY = os.getenv('NASA_API_KEY')
+NASA_API_KEY = "e3DlVogiTghmen8XZdtU3FZcmEyJ99Z1rw0trlkD"
  
 def sanitize_query(query):
     """Sanitize the query to create a valid filename (e.g., 'sunset beach' -> 'sunset_beach')."""
