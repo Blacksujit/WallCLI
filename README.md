@@ -5,6 +5,30 @@
 Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautiful wallpapers from various sources like Pexels, Unsplash, NASA APOD, and Reddit. You can also generate custom wallpapers using Stable Diffusion. The tool is designed to be user-friendly and highly customizable.
 
 
+## 📑 Table of Contents
+
+- [Wall CLI in action](#wall-cli-videos)
+- [Samples of fetched and Generated Wallpapers](#samples-of-fetched-and-generated-wallpapers)
+- [Folder Structure](#-folder-structure)
+- [Features](#features)
+- [API Keys](#-api-keys)
+- [Installation](#-installation)
+- [Usage](#-usage)
+    - [Terminal User Interface (For Normal users non techies)](#-terminal-user-interface-for-normal-users-non-techies)
+    - [Command Line Interface: (For techies)](#-command-line-interface-for-techies)
+- [Example Use Case](#-example-use-case)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+
+## WALL-CLI Videos:
+.
+
+
+## ✨✅Samples of fetched and Generated Wallpapers:
+
+**1.) Query - Scenary**
+
 
 ![Wall 1](src/wallpapers/city_night_2.jpg)
 
