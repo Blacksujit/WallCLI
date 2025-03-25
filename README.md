@@ -22,8 +22,14 @@ Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautif
 
 
 ## WALL-CLI Videos:
-.
 
+--> **For Techies:**
+
+https://drive.google.com/file/d/1ri4RZFInxwvGRyigX4g8LT83BtwMi4e9/view?usp=drive_link
+
+--> **For Non-techies(Normal Users):**
+
+.
 
 ## ✨✅Samples of fetched and Generated Wallpapers:
 
