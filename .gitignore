@@ -13,6 +13,6 @@ ENV/
 env.bak/
 venv.bak/
 
-
+.gitattributes
 # /tmp/ is a system directory that is not checked into the repository
 # New approach for apis management
