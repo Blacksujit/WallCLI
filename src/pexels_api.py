@@ -10,7 +10,8 @@ import os
 # Load environment variables from .env file
 load_dotenv()
 # Hardcoded NASA APOD API key (replace with your actual key)
-PEXELS_API_KEY = os.getenv('PEXELS_API_KEY')
+# PEXELS_API_KEY = os.getenv('PEXELS_API_KEY')
+PEXELS_API_KEY = "yepFtS82dEUPX41sHUOMVzris34EohIYvW8Czo5Z5s6KQ2WHPPe4eIQA"
  
 
 def sanitize_query(query):

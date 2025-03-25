@@ -6,6 +6,7 @@ Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautif
 
 ## 📑 Table of Contents
 
+- [Wall CLI in action](#wall-cli-videos)
 - [Samples of fetched and Generated Wallpapers](#samples-of-fetched-and-generated-wallpapers)
 - [Folder Structure](#-folder-structure)
 - [Features](#features)
@@ -17,6 +18,12 @@ Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautif
 - [Example Use Case](#-example-use-case)
 - [Contributing](#-contributing)
 - [License](#-license)
+
+
+## WALL-CLI Videos:
+
+
+
 
 ## ✨✅Samples of fetched and Generated Wallpapers:
 

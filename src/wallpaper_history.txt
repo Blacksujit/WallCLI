@@ -146,3 +146,17 @@ D:\wallpaper-cli-tool\src\wallpapers\mountains_12.jpg
 D:\wallpaper-cli-tool\src\wallpapers\rivers_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\rivers_2.jpg
 D:\wallpaper-cli-tool\src\wallpapers\rivers_3.jpg
+D:\wallpaper-cli-tool\src\wallpapers\mountains_13.jpg
+D:\wallpaper-cli-tool\src\wallpapers\mountains_14.jpg
+D:\wallpaper-cli-tool\src\wallpapers\2024_04_06_1.jpg
+D:\wallpaper-cli-tool\src\wallpapers\9f5283ed-000a-4fbf-a27c-b161b4665b21.jpg
+D:\wallpaper-cli-tool\src\wallpapers\ganga_arti_6.jpg
+D:\wallpaper-cli-tool\src\wallpapers\nature_6.jpg
+D:\wallpaper-cli-tool\src\wallpapers\animals_9.jpg
+D:\wallpaper-cli-tool\src\wallpapers\technology_4.jpg
+D:\wallpaper-cli-tool\src\wallpapers\travel_3.jpg
+D:\wallpaper-cli-tool\src\wallpapers\technology_6.jpg
+D:\wallpaper-cli-tool\src\wallpapers\technology_7.jpg
+D:\wallpaper-cli-tool\src\wallpapers\sports_1.jpg
+D:\wallpaper-cli-tool\src\wallpapers\sports_2.jpg
+D:\wallpaper-cli-tool\src\wallpapers\sunset_beach_1.jpg
