@@ -6,14 +6,14 @@ Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautif
 
 ## 📑 Table of Contents
 
-- [Samples of fetched and Generated Wallpapers](#-samples-of-fetched-and-generated-wallpapers)
+- [Samples of fetched and Generated Wallpapers](#samples-of-fetched-and-generated-wallpapers)
 - [Folder Structure](#-folder-structure)
-- [Features](#-features)
+- [Features](#features)
+- [API Keys](#-api-keys)
 - [Installation](#-installation)
 - [Usage](#-usage)
     - [Terminal User Interface (For Normal users non techies)](#-terminal-user-interface-for-normal-users-non-techies)
     - [Command Line Interface: (For techies)](#-command-line-interface-for-techies)
-- [API Keys](#-api-keys)
 - [Example Use Case](#-example-use-case)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -76,6 +76,46 @@ wallpaper-cli-tool/
 **✨ - Fetch Previous and Next Wallpapers**
 
 **✨ - Set custom resolution for wallpapers , according to your adaptive rate of windows for ex: 124×124 etc.**
+
+
+## 🔑 API Keys
+
+To use this tool, you need to set up API keys for the various services. Here are the steps to obtain and set the API keys:
+
+`first of all create an  ``.env``  file at the root of your project`
+
+1. **Pexels API Key:**
+    - Sign up at [Pexels](https://www.pexels.com/api/).
+    - Go to your profile and find the API key.
+    - Set the API key in your environment variables:
+        ```sh
+        export PEXELS_API_KEY='your_pexels_api_key'
+        ```
+
+2. **Unsplash API Key:**
+    - Sign up at [Unsplash](https://unsplash.com/developers).
+    - Create a new application to get the API key.
+    - Set the API key in your environment variables:
+        ```sh
+        export UNSPLASH_API_KEY='your_unsplash_api_key'
+        ```
+
+3. **NASA APOD API Key:**
+    - Sign up at [NASA API](https://api.nasa.gov/).
+    - Get the API key for APOD.
+    - Set the API key in your environment variables:
+        ```sh
+        export NASA_API_KEY='your_nasa_api_key'
+        ```
+
+4. **Reddit API Key:**
+    - Create an application at [Reddit Apps](https://www.reddit.com/prefs/apps).
+    - Get the client ID and secret.
+    - Set the API key in your environment variables:
+        ```sh
+        export REDDIT_CLIENT_ID='your_reddit_client_id'
+        export REDDIT_SECRET='your_reddit_secret'
+        ```
 
 ## 💻 Installation
 
@@ -184,44 +224,6 @@ python main.py --source custom --query "a beautiful sunset" --resolution "1024x1
 python main.py --list-history
 ```
 
-## 🔑 API Keys
-
-To use this tool, you need to set up API keys for the various services. Here are the steps to obtain and set the API keys:
-
-`first of all create an  ``.env``  file at the root of your project`
-
-1. **Pexels API Key:**
-    - Sign up at [Pexels](https://www.pexels.com/api/).
-    - Go to your profile and find the API key.
-    - Set the API key in your environment variables:
-        ```sh
-        export PEXELS_API_KEY='your_pexels_api_key'
-        ```
-
-2. **Unsplash API Key:**
-    - Sign up at [Unsplash](https://unsplash.com/developers).
-    - Create a new application to get the API key.
-    - Set the API key in your environment variables:
-        ```sh
-        export UNSPLASH_API_KEY='your_unsplash_api_key'
-        ```
-
-3. **NASA APOD API Key:**
-    - Sign up at [NASA API](https://api.nasa.gov/).
-    - Get the API key for APOD.
-    - Set the API key in your environment variables:
-        ```sh
-        export NASA_API_KEY='your_nasa_api_key'
-        ```
-
-4. **Reddit API Key:**
-    - Create an application at [Reddit Apps](https://www.reddit.com/prefs/apps).
-    - Get the client ID and secret.
-    - Set the API key in your environment variables:
-        ```sh
-        export REDDIT_CLIENT_ID='your_reddit_client_id'
-        export REDDIT_SECRET='your_reddit_secret'
-        ```
 
 ## 🌱 Example Use Case
 
