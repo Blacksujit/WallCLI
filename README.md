@@ -22,7 +22,11 @@ Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautif
 
 ## WALL-CLI Videos:
 
+--> **For techies:**
 
+<video controls src="Screen Recording 2025-03-25 204054.mp4" title="Title"></video>
+
+--> **For NON-techies(Normal Users):**
 
 
 ## ✨✅Samples of fetched and Generated Wallpapers:
