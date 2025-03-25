@@ -170,3 +170,6 @@ D:\wallpaper-cli-tool\src\wallpapers\sunset_beach_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\sunset_beach_1.jpg
 D:\wallpaper-cli-tool\src\wallpapers\mountains_15.jpg
 D:\wallpaper-cli-tool\src\wallpapers\mountains_16.jpg
+D:\wallpaper-cli-tool\src\wallpapers\9f5283ed-000a-4fbf-a27c-b161b4665b21.jpg
+D:\wallpaper-cli-tool\src\wallpapers\ganga_arti_7.jpg
+D:\wallpaper-cli-tool\src\wallpapers\ganga_arti_8.jpg
