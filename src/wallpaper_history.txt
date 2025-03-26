@@ -177,3 +177,8 @@ D:\wallpaper-cli-tool\src\wallpapers\ganga_arti_9.jpg
 D:\wallpaper-cli-tool\src\wallpapers\9f5283ed-000a-4fbf-a27c-b161b4665b21.jpg
 D:\wallpaper-cli-tool\src\wallpapers\9f5283ed-000a-4fbf-a27c-b161b4665b21.jpg
 D:\wallpaper-cli-tool\src\wallpapers\krishna_arti_1.jpg
+D:\wallpaper-cli-tool\src\wallpapers\ganga_arti_10.jpg
+D:\wallpaper-cli-tool\src\wallpapers\mountains_17.jpg
+D:\wallpaper-cli-tool\src\wallpapers\mountains_18.jpg
+D:\wallpaper-cli-tool\src\wallpapers\2024_04_12_1.jpg
+D:\wallpaper-cli-tool\src\wallpapers\nature_10.jpg
