@@ -23,6 +23,11 @@ Welcome to the Wallpaper CLI Tool! This tool allows you to fetch and set beautif
 
 ## WALL-CLI Videos:
 
+-->****Video Explanation:****
+
+[Video explanation Demo](https://drive.google.com/file/d/1rpmvSq1aRGOspeGPQMbO3AlVW1rVMaod/view?usp=drive_link)
+
+
 --> **For Non-techies(Normal Users):**
 
 [Video Link for Normal Users](https://drive.google.com/file/d/1xEOVnpocP6BbWz6nqJTjKfLzUgOQE3hH/view?usp=sharing)
